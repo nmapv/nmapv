@@ -5,4 +5,4 @@
 </p>
 
 - I’m currently working on [@zup](https://github.com/ZupIT)
-- dotnet|node|learning react
+- dotnet|react|node
