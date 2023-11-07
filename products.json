@@ -8,9 +8,12 @@
     "originalValue": 5.49,
     "currentValue": 5.49,
     "unitType": "unidade",
-    "unitQuantity": 10,
+    "unitQuantity": 11,
     "images": [
-      "http://img.bbystatic.com/BestBuy_US/images/products/4390/43900_sa.jpg"
+      {
+        "imageUrl": "http://img.bbystatic.com/BestBuy_US/images/products/4390/43900_sa.jpg",
+        "order": 1
+      }
     ]
   },
   {
@@ -22,9 +25,12 @@
     "originalValue": 5.49,
     "currentValue": 5.49,
     "unitType": "unidade",
-    "unitQuantity": 3,
+    "unitQuantity": 6,
     "images": [
-      "http://img.bbystatic.com/BestBuy_US/images/products/4853/48530_sa.jpg"
+      {
+        "imageUrl": "http://img.bbystatic.com/BestBuy_US/images/products/4853/48530_sa.jpg",
+        "order": 1
+      }
     ]
   },
   {
@@ -36,9 +42,12 @@
     "originalValue": 7.49,
     "currentValue": 5.49,
     "unitType": "unidade",
-    "unitQuantity": 7,
+    "unitQuantity": 3,
     "images": [
-      "http://img.bbystatic.com/BestBuy_US/images/products/1276/127687_sa.jpg"
+      {
+        "imageUrl": "http://img.bbystatic.com/BestBuy_US/images/products/1276/127687_sa.jpg",
+        "order": 1
+      }
     ]
   },
   {
@@ -50,9 +59,12 @@
     "originalValue": 4.99,
     "currentValue": 5.49,
     "unitType": "unidade",
-    "unitQuantity": 8,
+    "unitQuantity": 16,
     "images": [
-      "http://img.bbystatic.com/BestBuy_US/images/products/1501/150115_sa.jpg"
+      {
+        "imageUrl": "http://img.bbystatic.com/BestBuy_US/images/products/1501/150115_sa.jpg",
+        "order": 1
+      }
     ]
   },
   {
@@ -64,9 +76,12 @@
     "originalValue": 8.99,
     "currentValue": 5.49,
     "unitType": "unidade",
-    "unitQuantity": 6,
+    "unitQuantity": 1,
     "images": [
-      "http://img.bbystatic.com/BestBuy_US/images/products/1852/185230_sa.jpg"
+      {
+        "imageUrl": "http://img.bbystatic.com/BestBuy_US/images/products/1852/185230_sa.jpg",
+        "order": 1
+      }
     ]
   },
   {
@@ -78,9 +93,12 @@
     "originalValue": 9.99,
     "currentValue": 5.99,
     "unitType": "unidade",
-    "unitQuantity": 7,
+    "unitQuantity": 16,
     "images": [
-      "http://img.bbystatic.com/BestBuy_US/images/products/1852/185267_sa.jpg"
+      {
+        "imageUrl": "http://img.bbystatic.com/BestBuy_US/images/products/1852/185267_sa.jpg",
+        "order": 1
+      }
     ]
   },
   {
@@ -92,9 +110,12 @@
     "originalValue": 7.99,
     "currentValue": 5.49,
     "unitType": "unidade",
-    "unitQuantity": 4,
+    "unitQuantity": 9,
     "images": [
-      "http://img.bbystatic.com/BestBuy_US/images/products/3122/312290_sa.jpg"
+      {
+        "imageUrl": "http://img.bbystatic.com/BestBuy_US/images/products/3122/312290_sa.jpg",
+        "order": 1
+      }
     ]
   },
   {
@@ -104,11 +125,14 @@
     "category": "Carfi Instore Only",
     "brand": "Directed Electronics",
     "originalValue": 39.99,
-    "currentValue": 15,
+    "currentValue": 12,
     "unitType": "unidade",
-    "unitQuantity": 15,
+    "unitQuantity": 11,
     "images": [
-      "http://img.bbystatic.com/BestBuy_US/images/products/3248/324884_rc.jpg"
+      {
+        "imageUrl": "http://img.bbystatic.com/BestBuy_US/images/products/3248/324884_rc.jpg",
+        "order": 1
+      }
     ]
   },
   {
@@ -120,9 +144,12 @@
     "originalValue": 5.99,
     "currentValue": 5.49,
     "unitType": "unidade",
-    "unitQuantity": 2,
+    "unitQuantity": 9,
     "images": [
-      "http://img.bbystatic.com/BestBuy_US/images/products/3331/333179_sa.jpg"
+      {
+        "imageUrl": "http://img.bbystatic.com/BestBuy_US/images/products/3331/333179_sa.jpg",
+        "order": 1
+      }
     ]
   },
   {
@@ -134,9 +161,12 @@
     "originalValue": 16.99,
     "currentValue": 10,
     "unitType": "unidade",
-    "unitQuantity": 10,
+    "unitQuantity": 2,
     "images": [
-      "http://img.bbystatic.com/BestBuy_US/images/products/3465/346575_rc.jpg"
+      {
+        "imageUrl": "http://img.bbystatic.com/BestBuy_US/images/products/3465/346575_rc.jpg",
+        "order": 1
+      }
     ]
   },
   {
@@ -146,11 +176,14 @@
     "category": "Car Electronics & GPS",
     "brand": "Metra",
     "originalValue": 16.99,
-    "currentValue": 2,
+    "currentValue": 10,
     "unitType": "unidade",
-    "unitQuantity": 13,
+    "unitQuantity": 8,
     "images": [
-      "http://img.bbystatic.com/BestBuy_US/images/products/3466/346646_rc.jpg"
+      {
+        "imageUrl": "http://img.bbystatic.com/BestBuy_US/images/products/3466/346646_rc.jpg",
+        "order": 1
+      }
     ]
   },
   {
@@ -160,11 +193,14 @@
     "category": "Car Electronics & GPS",
     "brand": "Metra",
     "originalValue": 16.99,
-    "currentValue": 18,
+    "currentValue": 17,
     "unitType": "unidade",
-    "unitQuantity": 17,
+    "unitQuantity": 10,
     "images": [
-      "http://img.bbystatic.com/BestBuy_US/images/products/9852/9852688_sa.jpg"
+      {
+        "imageUrl": "http://img.bbystatic.com/BestBuy_US/images/products/9852/9852688_sa.jpg",
+        "order": 1
+      }
     ]
   },
   {
@@ -174,11 +210,14 @@
     "category": "Car Electronics & GPS",
     "brand": "Metra",
     "originalValue": 16.99,
-    "currentValue": 11,
+    "currentValue": 15,
     "unitType": "unidade",
-    "unitQuantity": 2,
+    "unitQuantity": 10,
     "images": [
-      "http://img.bbystatic.com/BestBuy_US/images/products/3471/347146_rc.jpg"
+      {
+        "imageUrl": "http://img.bbystatic.com/BestBuy_US/images/products/3471/347146_rc.jpg",
+        "order": 1
+      }
     ]
   },
   {
@@ -188,11 +227,14 @@
     "category": "Car Electronics & GPS",
     "brand": "Metra",
     "originalValue": 16.99,
-    "currentValue": 11,
+    "currentValue": 12,
     "unitType": "unidade",
-    "unitQuantity": 8,
+    "unitQuantity": 12,
     "images": [
-      "http://img.bbystatic.com/BestBuy_US/images/products/3471/347155_rc.jpg"
+      {
+        "imageUrl": "http://img.bbystatic.com/BestBuy_US/images/products/3471/347155_rc.jpg",
+        "order": 1
+      }
     ]
   },
   {
@@ -204,9 +246,12 @@
     "originalValue": 13.99,
     "currentValue": 5,
     "unitType": "unidade",
-    "unitQuantity": 8,
+    "unitQuantity": 9,
     "images": [
-      "http://img.bbystatic.com/BestBuy_US/images/products/3473/347333_sa.jpg"
+      {
+        "imageUrl": "http://img.bbystatic.com/BestBuy_US/images/products/3473/347333_sa.jpg",
+        "order": 1
+      }
     ]
   },
   {
@@ -216,11 +261,14 @@
     "category": "In-Store Only",
     "brand": "INSTALL",
     "originalValue": 29.99,
-    "currentValue": 10,
+    "currentValue": 14,
     "unitType": "unidade",
-    "unitQuantity": 17,
+    "unitQuantity": 3,
     "images": [
-      "http://img.bbystatic.com/BestBuy_US/images/products/nonsku/default_hardlines_m.gif"
+      {
+        "imageUrl": "http://img.bbystatic.com/BestBuy_US/images/products/nonsku/default_hardlines_m.gif",
+        "order": 1
+      }
     ]
   },
   {
@@ -232,9 +280,12 @@
     "originalValue": 19.99,
     "currentValue": 5.49,
     "unitType": "unidade",
-    "unitQuantity": 19,
+    "unitQuantity": 15,
     "images": [
-      "http://img.bbystatic.com/BestBuy_US/images/products/3736/373642_rc.jpg"
+      {
+        "imageUrl": "http://img.bbystatic.com/BestBuy_US/images/products/3736/373642_rc.jpg",
+        "order": 1
+      }
     ]
   },
   {
@@ -244,11 +295,14 @@
     "category": "Car Electronics & GPS",
     "brand": "Metra",
     "originalValue": 16.99,
-    "currentValue": 13,
+    "currentValue": 3,
     "unitType": "unidade",
-    "unitQuantity": 14,
+    "unitQuantity": 18,
     "images": [
-      "http://img.bbystatic.com/BestBuy_US/images/products/4783/478398_rc.jpg"
+      {
+        "imageUrl": "http://img.bbystatic.com/BestBuy_US/images/products/4783/478398_rc.jpg",
+        "order": 1
+      }
     ]
   },
   {
@@ -258,11 +312,14 @@
     "category": "Car Electronics & GPS",
     "brand": "Metra",
     "originalValue": 10.99,
-    "currentValue": 0,
+    "currentValue": 2,
     "unitType": "unidade",
-    "unitQuantity": 17,
+    "unitQuantity": 10,
     "images": [
-      "http://img.bbystatic.com/BestBuy_US/images/products/6127/612732_sa.jpg"
+      {
+        "imageUrl": "http://img.bbystatic.com/BestBuy_US/images/products/6127/612732_sa.jpg",
+        "order": 1
+      }
     ]
   },
   {
@@ -272,11 +329,14 @@
     "category": "Car Electronics & GPS",
     "brand": "Metra",
     "originalValue": 16.99,
-    "currentValue": 3,
+    "currentValue": 11,
     "unitType": "unidade",
-    "unitQuantity": 19,
+    "unitQuantity": 11,
     "images": [
-      "http://img.bbystatic.com/BestBuy_US/images/products/6436/643600_rc.jpg"
+      {
+        "imageUrl": "http://img.bbystatic.com/BestBuy_US/images/products/6436/643600_rc.jpg",
+        "order": 1
+      }
     ]
   },
   {
@@ -286,11 +346,14 @@
     "category": "Car Electronics & GPS",
     "brand": "Metra",
     "originalValue": 16.99,
-    "currentValue": 15,
+    "currentValue": 4,
     "unitType": "unidade",
-    "unitQuantity": 14,
+    "unitQuantity": 1,
     "images": [
-      "http://img.bbystatic.com/BestBuy_US/images/products/6436/643628_rc.jpg"
+      {
+        "imageUrl": "http://img.bbystatic.com/BestBuy_US/images/products/6436/643628_rc.jpg",
+        "order": 1
+      }
     ]
   },
   {
@@ -300,11 +363,14 @@
     "category": "Car Electronics & GPS",
     "brand": "Metra",
     "originalValue": 19.99,
-    "currentValue": 6,
+    "currentValue": 15,
     "unitType": "unidade",
-    "unitQuantity": 0,
+    "unitQuantity": 9,
     "images": [
-      "http://img.bbystatic.com/BestBuy_US/images/products/6436/643691_rc.jpg"
+      {
+        "imageUrl": "http://img.bbystatic.com/BestBuy_US/images/products/6436/643691_rc.jpg",
+        "order": 1
+      }
     ]
   },
   {
@@ -314,11 +380,14 @@
     "category": "Car Electronics & GPS",
     "brand": "Metra",
     "originalValue": 16.99,
-    "currentValue": 17,
+    "currentValue": 11,
     "unitType": "unidade",
-    "unitQuantity": 17,
+    "unitQuantity": 13,
     "images": [
-      "http://img.bbystatic.com/BestBuy_US/images/products/6437/643717_rc.jpg"
+      {
+        "imageUrl": "http://img.bbystatic.com/BestBuy_US/images/products/6437/643717_rc.jpg",
+        "order": 1
+      }
     ]
   },
   {
@@ -328,11 +397,14 @@
     "category": "Car Electronics & GPS",
     "brand": "Metra",
     "originalValue": 16.99,
-    "currentValue": 7,
+    "currentValue": 17,
     "unitType": "unidade",
-    "unitQuantity": 12,
+    "unitQuantity": 19,
     "images": [
-      "http://img.bbystatic.com/BestBuy_US/images/products/9852/9852688_sa.jpg"
+      {
+        "imageUrl": "http://img.bbystatic.com/BestBuy_US/images/products/9852/9852688_sa.jpg",
+        "order": 1
+      }
     ]
   },
   {
@@ -342,11 +414,14 @@
     "category": "Car Electronics & GPS",
     "brand": "Metra",
     "originalValue": 16.99,
-    "currentValue": 4,
+    "currentValue": 18,
     "unitType": "unidade",
-    "unitQuantity": 15,
+    "unitQuantity": 16,
     "images": [
-      "http://img.bbystatic.com/BestBuy_US/images/products/6773/677379_rc.jpg"
+      {
+        "imageUrl": "http://img.bbystatic.com/BestBuy_US/images/products/6773/677379_rc.jpg",
+        "order": 1
+      }
     ]
   },
   {
@@ -356,11 +431,14 @@
     "category": "Car Electronics & GPS",
     "brand": "Polk Audio",
     "originalValue": 99.99,
-    "currentValue": 1,
+    "currentValue": 8,
     "unitType": "unidade",
-    "unitQuantity": 19,
+    "unitQuantity": 18,
     "images": [
-      "http://img.bbystatic.com/BestBuy_US/images/products/1002/1002651_sa.jpg"
+      {
+        "imageUrl": "http://img.bbystatic.com/BestBuy_US/images/products/1002/1002651_sa.jpg",
+        "order": 1
+      }
     ]
   },
   {
@@ -372,9 +450,12 @@
     "originalValue": 29.99,
     "currentValue": 5.49,
     "unitType": "unidade",
-    "unitQuantity": 6,
+    "unitQuantity": 16,
     "images": [
-      "http://img.bbystatic.com/BestBuy_US/images/products/1003/1003003_sa.jpg"
+      {
+        "imageUrl": "http://img.bbystatic.com/BestBuy_US/images/products/1003/1003003_sa.jpg",
+        "order": 1
+      }
     ]
   },
   {
@@ -386,9 +467,12 @@
     "originalValue": 13.99,
     "currentValue": 5.49,
     "unitType": "unidade",
-    "unitQuantity": 13,
+    "unitQuantity": 10,
     "images": [
-      "http://img.bbystatic.com/BestBuy_US/images/products/1003/1003012_sa.jpg"
+      {
+        "imageUrl": "http://img.bbystatic.com/BestBuy_US/images/products/1003/1003012_sa.jpg",
+        "order": 1
+      }
     ]
   },
   {
@@ -398,11 +482,14 @@
     "category": "Musical Instruments",
     "brand": "LoDuca Bros Inc",
     "originalValue": 79.99,
-    "currentValue": 0,
+    "currentValue": 5,
     "unitType": "unidade",
-    "unitQuantity": 19,
+    "unitQuantity": 3,
     "images": [
-      "http://img.bbystatic.com/BestBuy_US/images/products/1003/1003021_sa.jpg"
+      {
+        "imageUrl": "http://img.bbystatic.com/BestBuy_US/images/products/1003/1003021_sa.jpg",
+        "order": 1
+      }
     ]
   },
   {
@@ -414,9 +501,12 @@
     "originalValue": 23.95,
     "currentValue": 5.49,
     "unitType": "unidade",
-    "unitQuantity": 17,
+    "unitQuantity": 12,
     "images": [
-      "http://img.bbystatic.com/BestBuy_US/images/products/1003/1003049_sa.jpg"
+      {
+        "imageUrl": "http://img.bbystatic.com/BestBuy_US/images/products/1003/1003049_sa.jpg",
+        "order": 1
+      }
     ]
   },
   {
@@ -426,11 +516,14 @@
     "category": "Musical Instruments",
     "brand": "Avid",
     "originalValue": 99,
-    "currentValue": 12,
+    "currentValue": 18,
     "unitType": "unidade",
     "unitQuantity": 14,
     "images": [
-      "http://img.bbystatic.com/BestBuy_US/images/products/1003/1003067_sa.jpg"
+      {
+        "imageUrl": "http://img.bbystatic.com/BestBuy_US/images/products/1003/1003067_sa.jpg",
+        "order": 1
+      }
     ]
   },
   {
@@ -440,11 +533,14 @@
     "category": "Musical Instruments",
     "brand": "M-Audio",
     "originalValue": 599.95,
-    "currentValue": 18,
+    "currentValue": 14,
     "unitType": "unidade",
-    "unitQuantity": 1,
+    "unitQuantity": 15,
     "images": [
-      "http://img.bbystatic.com/BestBuy_US/images/products/1003/1003076_sa.jpg"
+      {
+        "imageUrl": "http://img.bbystatic.com/BestBuy_US/images/products/1003/1003076_sa.jpg",
+        "order": 1
+      }
     ]
   },
   {
@@ -456,9 +552,12 @@
     "originalValue": 5.99,
     "currentValue": 5.49,
     "unitType": "unidade",
-    "unitQuantity": 2,
+    "unitQuantity": 15,
     "images": [
-      "http://img.bbystatic.com/BestBuy_US/images/products/1003/1003085_sa.jpg"
+      {
+        "imageUrl": "http://img.bbystatic.com/BestBuy_US/images/products/1003/1003085_sa.jpg",
+        "order": 1
+      }
     ]
   },
   {
@@ -468,11 +567,14 @@
     "category": "Musical Instruments",
     "brand": "Alesis",
     "originalValue": 79,
-    "currentValue": 0,
+    "currentValue": 13,
     "unitType": "unidade",
-    "unitQuantity": 9,
+    "unitQuantity": 7,
     "images": [
-      "http://img.bbystatic.com/BestBuy_US/images/products/1003/1003109_sa.jpg"
+      {
+        "imageUrl": "http://img.bbystatic.com/BestBuy_US/images/products/1003/1003109_sa.jpg",
+        "order": 1
+      }
     ]
   },
   {
@@ -484,9 +586,12 @@
     "originalValue": 29.95,
     "currentValue": 5.49,
     "unitType": "unidade",
-    "unitQuantity": 16,
+    "unitQuantity": 2,
     "images": [
-      "http://img.bbystatic.com/BestBuy_US/images/products/1003/1003127_sa.jpg"
+      {
+        "imageUrl": "http://img.bbystatic.com/BestBuy_US/images/products/1003/1003127_sa.jpg",
+        "order": 1
+      }
     ]
   },
   {
@@ -498,9 +603,12 @@
     "originalValue": 29.99,
     "currentValue": 5.49,
     "unitType": "unidade",
-    "unitQuantity": 9,
+    "unitQuantity": 2,
     "images": [
-      "http://img.bbystatic.com/BestBuy_US/images/products/1003/1003136_sa.jpg"
+      {
+        "imageUrl": "http://img.bbystatic.com/BestBuy_US/images/products/1003/1003136_sa.jpg",
+        "order": 1
+      }
     ]
   },
   {
@@ -510,11 +618,14 @@
     "category": "Musical Instruments",
     "brand": "LoDuca Bros Inc",
     "originalValue": 49.99,
-    "currentValue": 17,
+    "currentValue": 10,
     "unitType": "unidade",
-    "unitQuantity": 18,
+    "unitQuantity": 9,
     "images": [
-      "http://img.bbystatic.com/BestBuy_US/images/products/1003/1003145_rc.jpg"
+      {
+        "imageUrl": "http://img.bbystatic.com/BestBuy_US/images/products/1003/1003145_rc.jpg",
+        "order": 1
+      }
     ]
   },
   {
@@ -524,11 +635,14 @@
     "category": "Musical Instruments",
     "brand": "Sibelius",
     "originalValue": 69.95,
-    "currentValue": 5,
+    "currentValue": 1,
     "unitType": "unidade",
-    "unitQuantity": 5,
+    "unitQuantity": 10,
     "images": [
-      "http://img.bbystatic.com/BestBuy_US/images/pac/products/1312/1312451498/1312451498_sa.jpg"
+      {
+        "imageUrl": "http://img.bbystatic.com/BestBuy_US/images/pac/products/1312/1312451498/1312451498_sa.jpg",
+        "order": 1
+      }
     ]
   },
   {
@@ -538,11 +652,14 @@
     "category": "Musical Instruments",
     "brand": "PreSonus",
     "originalValue": 159.99,
-    "currentValue": 14,
+    "currentValue": 5,
     "unitType": "unidade",
-    "unitQuantity": 13,
+    "unitQuantity": 12,
     "images": [
-      "http://img.bbystatic.com/BestBuy_US/images/products/1003/1003172_sa.jpg"
+      {
+        "imageUrl": "http://img.bbystatic.com/BestBuy_US/images/products/1003/1003172_sa.jpg",
+        "order": 1
+      }
     ]
   },
   {
@@ -552,11 +669,14 @@
     "category": "Musical Instruments",
     "brand": "PreSonus",
     "originalValue": 159.95,
-    "currentValue": 0,
+    "currentValue": 16,
     "unitType": "unidade",
-    "unitQuantity": 6,
+    "unitQuantity": 11,
     "images": [
-      "http://img.bbystatic.com/BestBuy_US/images/products/1003/1003214_sa.jpg"
+      {
+        "imageUrl": "http://img.bbystatic.com/BestBuy_US/images/products/1003/1003214_sa.jpg",
+        "order": 1
+      }
     ]
   },
   {
@@ -568,9 +688,12 @@
     "originalValue": 5.99,
     "currentValue": 5.49,
     "unitType": "unidade",
-    "unitQuantity": 3,
+    "unitQuantity": 19,
     "images": [
-      "http://img.bbystatic.com/BestBuy_US/images/products/1003/1003232_sa.jpg"
+      {
+        "imageUrl": "http://img.bbystatic.com/BestBuy_US/images/products/1003/1003232_sa.jpg",
+        "order": 1
+      }
     ]
   },
   {
@@ -580,11 +703,14 @@
     "category": "Musical Instruments",
     "brand": "XLN Audio",
     "originalValue": 179,
-    "currentValue": 0,
+    "currentValue": 6,
     "unitType": "unidade",
-    "unitQuantity": 2,
+    "unitQuantity": 0,
     "images": [
-      "http://img.bbystatic.com/BestBuy_US/images/products/1003/1003269_sa.jpg"
+      {
+        "imageUrl": "http://img.bbystatic.com/BestBuy_US/images/products/1003/1003269_sa.jpg",
+        "order": 1
+      }
     ]
   },
   {
@@ -594,11 +720,14 @@
     "category": "Musical Instruments",
     "brand": "Avid",
     "originalValue": 299,
-    "currentValue": 17,
+    "currentValue": 16,
     "unitType": "unidade",
-    "unitQuantity": 5,
+    "unitQuantity": 13,
     "images": [
-      "http://img.bbystatic.com/BestBuy_US/images/products/1003/1003278_sa.jpg"
+      {
+        "imageUrl": "http://img.bbystatic.com/BestBuy_US/images/products/1003/1003278_sa.jpg",
+        "order": 1
+      }
     ]
   },
   {
@@ -608,11 +737,14 @@
     "category": "Musical Instruments",
     "brand": "Korg",
     "originalValue": 49.99,
-    "currentValue": 0,
+    "currentValue": 8,
     "unitType": "unidade",
     "unitQuantity": 4,
     "images": [
-      "http://img.bbystatic.com/BestBuy_US/images/products/1003/1003287_sa.jpg"
+      {
+        "imageUrl": "http://img.bbystatic.com/BestBuy_US/images/products/1003/1003287_sa.jpg",
+        "order": 1
+      }
     ]
   },
   {
@@ -622,11 +754,14 @@
     "category": "Musical Instruments",
     "brand": "M-Audio",
     "originalValue": 99.99,
-    "currentValue": 13,
+    "currentValue": 17,
     "unitType": "unidade",
-    "unitQuantity": 0,
+    "unitQuantity": 15,
     "images": [
-      "http://img.bbystatic.com/BestBuy_US/images/products/1003/1003296_sa.jpg"
+      {
+        "imageUrl": "http://img.bbystatic.com/BestBuy_US/images/products/1003/1003296_sa.jpg",
+        "order": 1
+      }
     ]
   },
   {
@@ -636,11 +771,14 @@
     "category": "Musical Instruments",
     "brand": "IK Multimedia",
     "originalValue": 59.99,
-    "currentValue": 10,
+    "currentValue": 1,
     "unitType": "unidade",
-    "unitQuantity": 6,
+    "unitQuantity": 15,
     "images": [
-      "http://img.bbystatic.com/BestBuy_US/images/products/1003/1003319_sa.jpg"
+      {
+        "imageUrl": "http://img.bbystatic.com/BestBuy_US/images/products/1003/1003319_sa.jpg",
+        "order": 1
+      }
     ]
   },
   {
@@ -650,11 +788,14 @@
     "category": "Musical Instruments",
     "brand": "IK Multimedia",
     "originalValue": 49.99,
-    "currentValue": 4,
+    "currentValue": 10,
     "unitType": "unidade",
-    "unitQuantity": 2,
+    "unitQuantity": 3,
     "images": [
-      "http://img.bbystatic.com/BestBuy_US/images/products/1003/1003328_sa.jpg"
+      {
+        "imageUrl": "http://img.bbystatic.com/BestBuy_US/images/products/1003/1003328_sa.jpg",
+        "order": 1
+      }
     ]
   },
   {
@@ -666,9 +807,12 @@
     "originalValue": 29.95,
     "currentValue": 5.99,
     "unitType": "unidade",
-    "unitQuantity": 9,
+    "unitQuantity": 13,
     "images": [
-      "http://img.bbystatic.com/BestBuy_US/images/products/1003/1003337_sa.jpg"
+      {
+        "imageUrl": "http://img.bbystatic.com/BestBuy_US/images/products/1003/1003337_sa.jpg",
+        "order": 1
+      }
     ]
   },
   {
@@ -678,11 +822,14 @@
     "category": "Musical Instruments",
     "brand": "Steinberg",
     "originalValue": 174.99,
-    "currentValue": 16,
+    "currentValue": 0,
     "unitType": "unidade",
-    "unitQuantity": 12,
+    "unitQuantity": 5,
     "images": [
-      "http://img.bbystatic.com/BestBuy_US/images/products/1003/1003346_sa.jpg"
+      {
+        "imageUrl": "http://img.bbystatic.com/BestBuy_US/images/products/1003/1003346_sa.jpg",
+        "order": 1
+      }
     ]
   },
   {
@@ -692,11 +839,14 @@
     "category": "Musical Instruments",
     "brand": "IK Multimedia",
     "originalValue": 39.99,
-    "currentValue": 2,
+    "currentValue": 19,
     "unitType": "unidade",
     "unitQuantity": 5,
     "images": [
-      "http://img.bbystatic.com/BestBuy_US/images/products/1003/1003364_rc.jpg"
+      {
+        "imageUrl": "http://img.bbystatic.com/BestBuy_US/images/products/1003/1003364_rc.jpg",
+        "order": 1
+      }
     ]
   },
   {
@@ -708,9 +858,12 @@
     "originalValue": 29.99,
     "currentValue": 5.49,
     "unitType": "unidade",
-    "unitQuantity": 11,
+    "unitQuantity": 18,
     "images": [
-      "http://img.bbystatic.com/BestBuy_US/images/products/1003/1003373_sa.jpg"
+      {
+        "imageUrl": "http://img.bbystatic.com/BestBuy_US/images/products/1003/1003373_sa.jpg",
+        "order": 1
+      }
     ]
   },
   {
@@ -722,9 +875,12 @@
     "originalValue": 5.99,
     "currentValue": 5.49,
     "unitType": "unidade",
-    "unitQuantity": 4,
+    "unitQuantity": 7,
     "images": [
-      "http://img.bbystatic.com/BestBuy_US/images/products/1003/1003415_sa.jpg"
+      {
+        "imageUrl": "http://img.bbystatic.com/BestBuy_US/images/products/1003/1003415_sa.jpg",
+        "order": 1
+      }
     ]
   },
   {
@@ -736,9 +892,12 @@
     "originalValue": 15.99,
     "currentValue": 5.99,
     "unitType": "unidade",
-    "unitQuantity": 9,
+    "unitQuantity": 5,
     "images": [
-      "http://img.bbystatic.com/BestBuy_US/images/products/1003/1003424_sa.jpg"
+      {
+        "imageUrl": "http://img.bbystatic.com/BestBuy_US/images/products/1003/1003424_sa.jpg",
+        "order": 1
+      }
     ]
   },
   {
@@ -748,11 +907,14 @@
     "category": "Musical Instruments",
     "brand": "Avid",
     "originalValue": 499,
-    "currentValue": 17,
+    "currentValue": 4,
     "unitType": "unidade",
-    "unitQuantity": 3,
+    "unitQuantity": 19,
     "images": [
-      "http://img.bbystatic.com/BestBuy_US/images/products/1003/1003433_sa.jpg"
+      {
+        "imageUrl": "http://img.bbystatic.com/BestBuy_US/images/products/1003/1003433_sa.jpg",
+        "order": 1
+      }
     ]
   },
   {
@@ -764,9 +926,12 @@
     "originalValue": 5.99,
     "currentValue": 5.49,
     "unitType": "unidade",
-    "unitQuantity": 6,
+    "unitQuantity": 16,
     "images": [
-      "http://img.bbystatic.com/BestBuy_US/images/products/1003/1003451_sa.jpg"
+      {
+        "imageUrl": "http://img.bbystatic.com/BestBuy_US/images/products/1003/1003451_sa.jpg",
+        "order": 1
+      }
     ]
   },
   {
@@ -778,9 +943,12 @@
     "originalValue": 59.99,
     "currentValue": 4,
     "unitType": "unidade",
-    "unitQuantity": 17,
+    "unitQuantity": 11,
     "images": [
-      "http://img.bbystatic.com/BestBuy_US/images/products/1003/1003488_sa.jpg"
+      {
+        "imageUrl": "http://img.bbystatic.com/BestBuy_US/images/products/1003/1003488_sa.jpg",
+        "order": 1
+      }
     ]
   },
   {
@@ -794,7 +962,10 @@
     "unitType": "unidade",
     "unitQuantity": 17,
     "images": [
-      "http://img.bbystatic.com/BestBuy_US/images/products/1003/1003497_sa.jpg"
+      {
+        "imageUrl": "http://img.bbystatic.com/BestBuy_US/images/products/1003/1003497_sa.jpg",
+        "order": 1
+      }
     ]
   },
   {
@@ -806,9 +977,12 @@
     "originalValue": 5.99,
     "currentValue": 5.49,
     "unitType": "unidade",
-    "unitQuantity": 2,
+    "unitQuantity": 4,
     "images": [
-      "http://img.bbystatic.com/BestBuy_US/images/products/1003/1003531_sa.jpg"
+      {
+        "imageUrl": "http://img.bbystatic.com/BestBuy_US/images/products/1003/1003531_sa.jpg",
+        "order": 1
+      }
     ]
   },
   {
@@ -820,9 +994,12 @@
     "originalValue": 15.99,
     "currentValue": 5.49,
     "unitType": "unidade",
-    "unitQuantity": 3,
+    "unitQuantity": 6,
     "images": [
-      "http://img.bbystatic.com/BestBuy_US/images/products/1003/1003568_sa.jpg"
+      {
+        "imageUrl": "http://img.bbystatic.com/BestBuy_US/images/products/1003/1003568_sa.jpg",
+        "order": 1
+      }
     ]
   },
   {
@@ -834,9 +1011,12 @@
     "originalValue": 17.99,
     "currentValue": 5.49,
     "unitType": "unidade",
-    "unitQuantity": 8,
+    "unitQuantity": 3,
     "images": [
-      "http://img.bbystatic.com/BestBuy_US/images/products/1003/1003604_sa.jpg"
+      {
+        "imageUrl": "http://img.bbystatic.com/BestBuy_US/images/products/1003/1003604_sa.jpg",
+        "order": 1
+      }
     ]
   },
   {
@@ -848,9 +1028,12 @@
     "originalValue": 29.95,
     "currentValue": 5.49,
     "unitType": "unidade",
-    "unitQuantity": 19,
+    "unitQuantity": 11,
     "images": [
-      "http://img.bbystatic.com/BestBuy_US/images/products/1003/1003613_sa.jpg"
+      {
+        "imageUrl": "http://img.bbystatic.com/BestBuy_US/images/products/1003/1003613_sa.jpg",
+        "order": 1
+      }
     ]
   },
   {
@@ -862,9 +1045,12 @@
     "originalValue": 15.99,
     "currentValue": 5.99,
     "unitType": "unidade",
-    "unitQuantity": 14,
+    "unitQuantity": 19,
     "images": [
-      "http://img.bbystatic.com/BestBuy_US/images/products/1003/1003622_sa.jpg"
+      {
+        "imageUrl": "http://img.bbystatic.com/BestBuy_US/images/products/1003/1003622_sa.jpg",
+        "order": 1
+      }
     ]
   },
   {
@@ -874,11 +1060,14 @@
     "category": "Musical Instruments",
     "brand": "IK Multimedia",
     "originalValue": 99.99,
-    "currentValue": 3,
+    "currentValue": 4,
     "unitType": "unidade",
-    "unitQuantity": 0,
+    "unitQuantity": 11,
     "images": [
-      "http://img.bbystatic.com/BestBuy_US/images/products/1003/1003631_rc.jpg"
+      {
+        "imageUrl": "http://img.bbystatic.com/BestBuy_US/images/products/1003/1003631_rc.jpg",
+        "order": 1
+      }
     ]
   },
   {
@@ -890,9 +1079,12 @@
     "originalValue": 19.99,
     "currentValue": 3.99,
     "unitType": "unidade",
-    "unitQuantity": 9,
+    "unitQuantity": 10,
     "images": [
-      "http://img.bbystatic.com/BestBuy_US/images/products/1003/1003641_500x500_sa.jpg"
+      {
+        "imageUrl": "http://img.bbystatic.com/BestBuy_US/images/products/1003/1003641_500x500_sa.jpg",
+        "order": 1
+      }
     ]
   },
   {
@@ -902,11 +1094,14 @@
     "category": "Musical Instruments",
     "brand": "M-Audio",
     "originalValue": 99.95,
-    "currentValue": 19,
+    "currentValue": 15,
     "unitType": "unidade",
-    "unitQuantity": 1,
+    "unitQuantity": 0,
     "images": [
-      "http://img.bbystatic.com/BestBuy_US/images/products/1003/1003659_sa.jpg"
+      {
+        "imageUrl": "http://img.bbystatic.com/BestBuy_US/images/products/1003/1003659_sa.jpg",
+        "order": 1
+      }
     ]
   },
   {
@@ -918,9 +1113,12 @@
     "originalValue": 15.99,
     "currentValue": 5.99,
     "unitType": "unidade",
-    "unitQuantity": 0,
+    "unitQuantity": 18,
     "images": [
-      "http://img.bbystatic.com/BestBuy_US/images/products/1003/1003668_sa.jpg"
+      {
+        "imageUrl": "http://img.bbystatic.com/BestBuy_US/images/products/1003/1003668_sa.jpg",
+        "order": 1
+      }
     ]
   },
   {
@@ -932,9 +1130,12 @@
     "originalValue": 749.99,
     "currentValue": 17,
     "unitType": "unidade",
-    "unitQuantity": 2,
+    "unitQuantity": 0,
     "images": [
-      "http://img.bbystatic.com/BestBuy_US/images/products/1004/1004002_sa.jpg"
+      {
+        "imageUrl": "http://img.bbystatic.com/BestBuy_US/images/products/1004/1004002_sa.jpg",
+        "order": 1
+      }
     ]
   },
   {
@@ -948,7 +1149,10 @@
     "unitType": "unidade",
     "unitQuantity": 18,
     "images": [
-      "http://img.bbystatic.com/BestBuy_US/images/products/1004/1004622_sa.jpg"
+      {
+        "imageUrl": "http://img.bbystatic.com/BestBuy_US/images/products/1004/1004622_sa.jpg",
+        "order": 1
+      }
     ]
   },
   {
@@ -960,9 +1164,12 @@
     "originalValue": 29.99,
     "currentValue": 5.49,
     "unitType": "unidade",
-    "unitQuantity": 14,
+    "unitQuantity": 15,
     "images": [
-      "http://img.bbystatic.com/BestBuy_US/images/products/1004/1004668_rc.jpg"
+      {
+        "imageUrl": "http://img.bbystatic.com/BestBuy_US/images/products/1004/1004668_rc.jpg",
+        "order": 1
+      }
     ]
   },
   {
@@ -974,9 +1181,12 @@
     "originalValue": 19.99,
     "currentValue": 5.49,
     "unitType": "unidade",
-    "unitQuantity": 19,
+    "unitQuantity": 5,
     "images": [
-      "http://img.bbystatic.com/BestBuy_US/images/products/1004/1004695_rc.jpg"
+      {
+        "imageUrl": "http://img.bbystatic.com/BestBuy_US/images/products/1004/1004695_rc.jpg",
+        "order": 1
+      }
     ]
   },
   {
@@ -986,11 +1196,14 @@
     "category": "Cameras & Camcorders",
     "brand": "GoPro",
     "originalValue": 39.99,
-    "currentValue": 3,
+    "currentValue": 2,
     "unitType": "unidade",
-    "unitQuantity": 15,
+    "unitQuantity": 17,
     "images": [
-      "http://img.bbystatic.com/BestBuy_US/images/products/1004/1004804_rc.jpg"
+      {
+        "imageUrl": "http://img.bbystatic.com/BestBuy_US/images/products/1004/1004804_rc.jpg",
+        "order": 1
+      }
     ]
   },
   {
@@ -1002,9 +1215,12 @@
     "originalValue": 19.99,
     "currentValue": 5.49,
     "unitType": "unidade",
-    "unitQuantity": 8,
+    "unitQuantity": 5,
     "images": [
-      "http://img.bbystatic.com/BestBuy_US/images/products/1004/1004831_rc.jpg"
+      {
+        "imageUrl": "http://img.bbystatic.com/BestBuy_US/images/products/1004/1004831_rc.jpg",
+        "order": 1
+      }
     ]
   },
   {
@@ -1016,9 +1232,12 @@
     "originalValue": 9.99,
     "currentValue": 5.49,
     "unitType": "unidade",
-    "unitQuantity": 13,
+    "unitQuantity": 17,
     "images": [
-      "http://img.bbystatic.com/BestBuy_US/images/products/1005/1005118_sa.jpg"
+      {
+        "imageUrl": "http://img.bbystatic.com/BestBuy_US/images/products/1005/1005118_sa.jpg",
+        "order": 1
+      }
     ]
   },
   {
@@ -1028,11 +1247,14 @@
     "category": "Musical Instruments",
     "brand": "American DJ",
     "originalValue": 89.99,
-    "currentValue": 0,
+    "currentValue": 18,
     "unitType": "unidade",
-    "unitQuantity": 10,
+    "unitQuantity": 16,
     "images": [
-      "http://img.bbystatic.com/BestBuy_US/images/products/1005/1005181_sa.jpg"
+      {
+        "imageUrl": "http://img.bbystatic.com/BestBuy_US/images/products/1005/1005181_sa.jpg",
+        "order": 1
+      }
     ]
   },
   {
@@ -1042,11 +1264,14 @@
     "category": "Musical Instruments",
     "brand": "American DJ",
     "originalValue": 59.99,
-    "currentValue": 1,
+    "currentValue": 2,
     "unitType": "unidade",
-    "unitQuantity": 3,
+    "unitQuantity": 2,
     "images": [
-      "http://img.bbystatic.com/BestBuy_US/images/products/1005/1005215_sa.jpg"
+      {
+        "imageUrl": "http://img.bbystatic.com/BestBuy_US/images/products/1005/1005215_sa.jpg",
+        "order": 1
+      }
     ]
   },
   {
@@ -1058,9 +1283,12 @@
     "originalValue": 12.99,
     "currentValue": 5.49,
     "unitType": "unidade",
-    "unitQuantity": 2,
+    "unitQuantity": 19,
     "images": [
-      "http://img.bbystatic.com/BestBuy_US/images/products/1005/1005288_sa.jpg"
+      {
+        "imageUrl": "http://img.bbystatic.com/BestBuy_US/images/products/1005/1005288_sa.jpg",
+        "order": 1
+      }
     ]
   },
   {
@@ -1070,11 +1298,14 @@
     "category": "Musical Instruments",
     "brand": "American DJ",
     "originalValue": 39.99,
-    "currentValue": 8,
+    "currentValue": 10,
     "unitType": "unidade",
-    "unitQuantity": 13,
+    "unitQuantity": 5,
     "images": [
-      "http://img.bbystatic.com/BestBuy_US/images/products/1005/1005297_sa.jpg"
+      {
+        "imageUrl": "http://img.bbystatic.com/BestBuy_US/images/products/1005/1005297_sa.jpg",
+        "order": 1
+      }
     ]
   },
   {
@@ -1084,11 +1315,14 @@
     "category": "Musical Instruments",
     "brand": "American DJ",
     "originalValue": 44.99,
-    "currentValue": 3,
+    "currentValue": 9,
     "unitType": "unidade",
-    "unitQuantity": 1,
+    "unitQuantity": 10,
     "images": [
-      "http://img.bbystatic.com/BestBuy_US/images/products/1005/1005312_sa.jpg"
+      {
+        "imageUrl": "http://img.bbystatic.com/BestBuy_US/images/products/1005/1005312_sa.jpg",
+        "order": 1
+      }
     ]
   },
   {
@@ -1098,11 +1332,14 @@
     "category": "Musical Instruments",
     "brand": "American DJ",
     "originalValue": 199.99,
-    "currentValue": 9,
+    "currentValue": 5,
     "unitType": "unidade",
-    "unitQuantity": 0,
+    "unitQuantity": 11,
     "images": [
-      "http://img.bbystatic.com/BestBuy_US/images/products/1005/1005358_sa.jpg"
+      {
+        "imageUrl": "http://img.bbystatic.com/BestBuy_US/images/products/1005/1005358_sa.jpg",
+        "order": 1
+      }
     ]
   },
   {
@@ -1112,11 +1349,14 @@
     "category": "Musical Instruments",
     "brand": "American DJ",
     "originalValue": 54.99,
-    "currentValue": 15,
+    "currentValue": 8,
     "unitType": "unidade",
-    "unitQuantity": 5,
+    "unitQuantity": 15,
     "images": [
-      "http://img.bbystatic.com/BestBuy_US/images/products/1005/1005409_sa.jpg"
+      {
+        "imageUrl": "http://img.bbystatic.com/BestBuy_US/images/products/1005/1005409_sa.jpg",
+        "order": 1
+      }
     ]
   },
   {
@@ -1126,11 +1366,14 @@
     "category": "Musical Instruments",
     "brand": "American DJ",
     "originalValue": 299.99,
-    "currentValue": 2,
+    "currentValue": 13,
     "unitType": "unidade",
-    "unitQuantity": 14,
+    "unitQuantity": 10,
     "images": [
-      "http://img.bbystatic.com/BestBuy_US/images/products/1005/1005454_rc.jpg"
+      {
+        "imageUrl": "http://img.bbystatic.com/BestBuy_US/images/products/1005/1005454_rc.jpg",
+        "order": 1
+      }
     ]
   },
   {
@@ -1142,9 +1385,12 @@
     "originalValue": 25.99,
     "currentValue": 8.49,
     "unitType": "unidade",
-    "unitQuantity": 12,
+    "unitQuantity": 8,
     "images": [
-      "http://img.bbystatic.com/BestBuy_US/images/products/1005/1005515_sa.jpg"
+      {
+        "imageUrl": "http://img.bbystatic.com/BestBuy_US/images/products/1005/1005515_sa.jpg",
+        "order": 1
+      }
     ]
   },
   {
@@ -1154,11 +1400,14 @@
     "category": "Musical Instruments",
     "brand": "American DJ",
     "originalValue": 44.99,
-    "currentValue": 1,
+    "currentValue": 3,
     "unitType": "unidade",
-    "unitQuantity": 11,
+    "unitQuantity": 0,
     "images": [
-      "http://img.bbystatic.com/BestBuy_US/images/products/1005/1005542_sa.jpg"
+      {
+        "imageUrl": "http://img.bbystatic.com/BestBuy_US/images/products/1005/1005542_sa.jpg",
+        "order": 1
+      }
     ]
   },
   {
@@ -1168,11 +1417,14 @@
     "category": "Musical Instruments",
     "brand": "American DJ",
     "originalValue": 499.99,
-    "currentValue": 12,
+    "currentValue": 18,
     "unitType": "unidade",
-    "unitQuantity": 4,
+    "unitQuantity": 1,
     "images": [
-      "http://img.bbystatic.com/BestBuy_US/images/products/1005/1005667_sa.jpg"
+      {
+        "imageUrl": "http://img.bbystatic.com/BestBuy_US/images/products/1005/1005667_sa.jpg",
+        "order": 1
+      }
     ]
   },
   {
@@ -1184,9 +1436,12 @@
     "originalValue": 129.99,
     "currentValue": 5,
     "unitType": "unidade",
-    "unitQuantity": 12,
+    "unitQuantity": 14,
     "images": [
-      "http://img.bbystatic.com/BestBuy_US/images/products/1005/1005694_rc.jpg"
+      {
+        "imageUrl": "http://img.bbystatic.com/BestBuy_US/images/products/1005/1005694_rc.jpg",
+        "order": 1
+      }
     ]
   },
   {
@@ -1198,9 +1453,12 @@
     "originalValue": 13.99,
     "currentValue": 5.49,
     "unitType": "unidade",
-    "unitQuantity": 18,
+    "unitQuantity": 7,
     "images": [
-      "http://img.bbystatic.com/BestBuy_US/images/products/1005/1005721_sa.jpg"
+      {
+        "imageUrl": "http://img.bbystatic.com/BestBuy_US/images/products/1005/1005721_sa.jpg",
+        "order": 1
+      }
     ]
   },
   {
@@ -1210,11 +1468,14 @@
     "category": "Musical Instruments",
     "brand": "American DJ",
     "originalValue": 169.99,
-    "currentValue": 8,
+    "currentValue": 3,
     "unitType": "unidade",
-    "unitQuantity": 4,
+    "unitQuantity": 8,
     "images": [
-      "http://img.bbystatic.com/BestBuy_US/images/products/1005/1005758_sa.jpg"
+      {
+        "imageUrl": "http://img.bbystatic.com/BestBuy_US/images/products/1005/1005758_sa.jpg",
+        "order": 1
+      }
     ]
   },
   {
@@ -1224,11 +1485,14 @@
     "category": "Musical Instruments",
     "brand": "American DJ",
     "originalValue": 49.99,
-    "currentValue": 3,
+    "currentValue": 11,
     "unitType": "unidade",
-    "unitQuantity": 12,
+    "unitQuantity": 11,
     "images": [
-      "http://img.bbystatic.com/BestBuy_US/images/products/1005/1005794_sa.jpg"
+      {
+        "imageUrl": "http://img.bbystatic.com/BestBuy_US/images/products/1005/1005794_sa.jpg",
+        "order": 1
+      }
     ]
   },
   {
@@ -1240,9 +1504,12 @@
     "originalValue": 15.99,
     "currentValue": 6.49,
     "unitType": "unidade",
-    "unitQuantity": 0,
+    "unitQuantity": 9,
     "images": [
-      "http://img.bbystatic.com/BestBuy_US/images/products/1005/1005803_sa.jpg"
+      {
+        "imageUrl": "http://img.bbystatic.com/BestBuy_US/images/products/1005/1005803_sa.jpg",
+        "order": 1
+      }
     ]
   },
   {
@@ -1254,9 +1521,12 @@
     "originalValue": 34.99,
     "currentValue": 6.49,
     "unitType": "unidade",
-    "unitQuantity": 12,
+    "unitQuantity": 1,
     "images": [
-      "http://img.bbystatic.com/BestBuy_US/images/products/1005/1005849_sa.jpg"
+      {
+        "imageUrl": "http://img.bbystatic.com/BestBuy_US/images/products/1005/1005849_sa.jpg",
+        "order": 1
+      }
     ]
   },
   {
@@ -1268,9 +1538,12 @@
     "originalValue": 20.99,
     "currentValue": 5.99,
     "unitType": "unidade",
-    "unitQuantity": 12,
+    "unitQuantity": 16,
     "images": [
-      "http://img.bbystatic.com/BestBuy_US/images/products/1005/1005867_sa.jpg"
+      {
+        "imageUrl": "http://img.bbystatic.com/BestBuy_US/images/products/1005/1005867_sa.jpg",
+        "order": 1
+      }
     ]
   },
   {
@@ -1282,9 +1555,12 @@
     "originalValue": 79.99,
     "currentValue": 6,
     "unitType": "unidade",
-    "unitQuantity": 16,
+    "unitQuantity": 12,
     "images": [
-      "http://img.bbystatic.com/BestBuy_US/images/products/1005/1005885_sa.jpg"
+      {
+        "imageUrl": "http://img.bbystatic.com/BestBuy_US/images/products/1005/1005885_sa.jpg",
+        "order": 1
+      }
     ]
   },
   {
@@ -1296,9 +1572,12 @@
     "originalValue": 14.99,
     "currentValue": 5.49,
     "unitType": "unidade",
-    "unitQuantity": 15,
+    "unitQuantity": 0,
     "images": [
-      "http://img.bbystatic.com/BestBuy_US/images/products/1005/1005894_sa.jpg"
+      {
+        "imageUrl": "http://img.bbystatic.com/BestBuy_US/images/products/1005/1005894_sa.jpg",
+        "order": 1
+      }
     ]
   },
   {
@@ -1308,11 +1587,14 @@
     "category": "Musical Instruments",
     "brand": "American DJ",
     "originalValue": 199.99,
-    "currentValue": 19,
+    "currentValue": 9,
     "unitType": "unidade",
-    "unitQuantity": 11,
+    "unitQuantity": 5,
     "images": [
-      "http://img.bbystatic.com/BestBuy_US/images/pac/products/1306/1306786803/1306786803_sa.jpg"
+      {
+        "imageUrl": "http://img.bbystatic.com/BestBuy_US/images/pac/products/1306/1306786803/1306786803_sa.jpg",
+        "order": 1
+      }
     ]
   },
   {
@@ -1324,9 +1606,12 @@
     "originalValue": 14.99,
     "currentValue": 5.49,
     "unitType": "unidade",
-    "unitQuantity": 17,
+    "unitQuantity": 11,
     "images": [
-      "http://img.bbystatic.com/BestBuy_US/images/products/1005/1005912_sa.jpg"
+      {
+        "imageUrl": "http://img.bbystatic.com/BestBuy_US/images/products/1005/1005912_sa.jpg",
+        "order": 1
+      }
     ]
   },
   {
@@ -1336,11 +1621,14 @@
     "category": "Musical Instruments",
     "brand": "American DJ",
     "originalValue": 99.99,
-    "currentValue": 5,
+    "currentValue": 10,
     "unitType": "unidade",
-    "unitQuantity": 14,
+    "unitQuantity": 0,
     "images": [
-      "http://img.bbystatic.com/BestBuy_US/images/products/1005/1005985_rc.jpg"
+      {
+        "imageUrl": "http://img.bbystatic.com/BestBuy_US/images/products/1005/1005985_rc.jpg",
+        "order": 1
+      }
     ]
   },
   {
@@ -1352,9 +1640,12 @@
     "originalValue": 54.99,
     "currentValue": 1,
     "unitType": "unidade",
-    "unitQuantity": 17,
+    "unitQuantity": 1,
     "images": [
-      "http://img.bbystatic.com/BestBuy_US/images/products/1006/1006029_sa.jpg"
+      {
+        "imageUrl": "http://img.bbystatic.com/BestBuy_US/images/products/1006/1006029_sa.jpg",
+        "order": 1
+      }
     ]
   },
   {
@@ -1364,11 +1655,14 @@
     "category": "Musical Instruments",
     "brand": "American DJ",
     "originalValue": 99.99,
-    "currentValue": 1,
+    "currentValue": 4,
     "unitType": "unidade",
-    "unitQuantity": 6,
+    "unitQuantity": 14,
     "images": [
-      "http://img.bbystatic.com/BestBuy_US/images/products/1006/1006038_sa.jpg"
+      {
+        "imageUrl": "http://img.bbystatic.com/BestBuy_US/images/products/1006/1006038_sa.jpg",
+        "order": 1
+      }
     ]
   },
   {
@@ -1378,11 +1672,14 @@
     "category": "Musical Instruments",
     "brand": "VocoPro",
     "originalValue": 149.99,
-    "currentValue": 14,
+    "currentValue": 8,
     "unitType": "unidade",
-    "unitQuantity": 4,
+    "unitQuantity": 12,
     "images": [
-      "http://img.bbystatic.com/BestBuy_US/images/products/1006/1006046_sa.jpg"
+      {
+        "imageUrl": "http://img.bbystatic.com/BestBuy_US/images/products/1006/1006046_sa.jpg",
+        "order": 1
+      }
     ]
   },
   {
@@ -1394,9 +1691,12 @@
     "originalValue": 19.99,
     "currentValue": 9.99,
     "unitType": "unidade",
-    "unitQuantity": 16,
+    "unitQuantity": 15,
     "images": [
-      "http://img.bbystatic.com/BestBuy_US/images/products/1006/1006065_sa.jpg"
+      {
+        "imageUrl": "http://img.bbystatic.com/BestBuy_US/images/products/1006/1006065_sa.jpg",
+        "order": 1
+      }
     ]
   },
   {
@@ -1406,11 +1706,14 @@
     "category": "Musical Instruments",
     "brand": "American Audio",
     "originalValue": 399.99,
-    "currentValue": 18,
+    "currentValue": 4,
     "unitType": "unidade",
-    "unitQuantity": 16,
+    "unitQuantity": 4,
     "images": [
-      "http://img.bbystatic.com/BestBuy_US/images/products/1006/1006126_sa.jpg"
+      {
+        "imageUrl": "http://img.bbystatic.com/BestBuy_US/images/products/1006/1006126_sa.jpg",
+        "order": 1
+      }
     ]
   },
   {
@@ -1422,9 +1725,12 @@
     "originalValue": 11.99,
     "currentValue": 5.49,
     "unitType": "unidade",
-    "unitQuantity": 2,
+    "unitQuantity": 7,
     "images": [
-      "http://img.bbystatic.com/BestBuy_US/images/products/1006/1006144_sa.jpg"
+      {
+        "imageUrl": "http://img.bbystatic.com/BestBuy_US/images/products/1006/1006144_sa.jpg",
+        "order": 1
+      }
     ]
   },
   {
@@ -1436,9 +1742,12 @@
     "originalValue": 119.99,
     "currentValue": 10,
     "unitType": "unidade",
-    "unitQuantity": 16,
+    "unitQuantity": 14,
     "images": [
-      "http://img.bbystatic.com/BestBuy_US/images/products/1006/1006199_sa.jpg"
+      {
+        "imageUrl": "http://img.bbystatic.com/BestBuy_US/images/products/1006/1006199_sa.jpg",
+        "order": 1
+      }
     ]
   },
   {
@@ -1448,11 +1757,14 @@
     "category": "Computers & Tablets",
     "brand": "CyberPower",
     "originalValue": 225.99,
-    "currentValue": 7,
+    "currentValue": 9,
     "unitType": "unidade",
-    "unitQuantity": 1,
+    "unitQuantity": 8,
     "images": [
-      "http://img.bbystatic.com/BestBuy_US/images/products/1006/1006435_sa.jpg"
+      {
+        "imageUrl": "http://img.bbystatic.com/BestBuy_US/images/products/1006/1006435_sa.jpg",
+        "order": 1
+      }
     ]
   },
   {
@@ -1464,9 +1776,12 @@
     "originalValue": 9.99,
     "currentValue": 3.99,
     "unitType": "unidade",
-    "unitQuantity": 15,
+    "unitQuantity": 14,
     "images": [
-      "http://img.bbystatic.com/BestBuy_US/images/products/1007/1007009_sa.jpg"
+      {
+        "imageUrl": "http://img.bbystatic.com/BestBuy_US/images/products/1007/1007009_sa.jpg",
+        "order": 1
+      }
     ]
   },
   {
@@ -1476,11 +1791,14 @@
     "category": "Car Electronics & GPS",
     "brand": "Polk Audio",
     "originalValue": 189.99,
-    "currentValue": 14,
+    "currentValue": 17,
     "unitType": "unidade",
-    "unitQuantity": 3,
+    "unitQuantity": 1,
     "images": [
-      "http://img.bbystatic.com/BestBuy_US/images/products/1007/1007107_sa.jpg"
+      {
+        "imageUrl": "http://img.bbystatic.com/BestBuy_US/images/products/1007/1007107_sa.jpg",
+        "order": 1
+      }
     ]
   },
   {
@@ -1492,9 +1810,12 @@
     "originalValue": 9.99,
     "currentValue": 3.99,
     "unitType": "unidade",
-    "unitQuantity": 14,
+    "unitQuantity": 5,
     "images": [
-      "http://img.bbystatic.com/BestBuy_US/images/products/1008/1008008_sa.jpg"
+      {
+        "imageUrl": "http://img.bbystatic.com/BestBuy_US/images/products/1008/1008008_sa.jpg",
+        "order": 1
+      }
     ]
   },
   {
@@ -1504,11 +1825,14 @@
     "category": "Connected Home & Housewares",
     "brand": "Livescribe",
     "originalValue": 24.99,
-    "currentValue": 3,
+    "currentValue": 15,
     "unitType": "unidade",
-    "unitQuantity": 15,
+    "unitQuantity": 11,
     "images": [
-      "http://img.bbystatic.com/BestBuy_US/images/products/1008/1008728_sa.jpg"
+      {
+        "imageUrl": "http://img.bbystatic.com/BestBuy_US/images/products/1008/1008728_sa.jpg",
+        "order": 1
+      }
     ]
   },
   {
@@ -1520,9 +1844,12 @@
     "originalValue": 9.99,
     "currentValue": 3.99,
     "unitType": "unidade",
-    "unitQuantity": 10,
+    "unitQuantity": 18,
     "images": [
-      "http://img.bbystatic.com/BestBuy_US/images/products/1009/1009007_sa.jpg"
+      {
+        "imageUrl": "http://img.bbystatic.com/BestBuy_US/images/products/1009/1009007_sa.jpg",
+        "order": 1
+      }
     ]
   },
   {
@@ -1532,11 +1859,14 @@
     "category": "Musical Instruments",
     "brand": "Audio-Technica",
     "originalValue": 99.99,
-    "currentValue": 14,
+    "currentValue": 11,
     "unitType": "unidade",
-    "unitQuantity": 10,
+    "unitQuantity": 16,
     "images": [
-      "http://img.bbystatic.com/BestBuy_US/images/products/1009/1009211_105x210_sc.jpg"
+      {
+        "imageUrl": "http://img.bbystatic.com/BestBuy_US/images/products/1009/1009211_105x210_sc.jpg",
+        "order": 1
+      }
     ]
   },
   {
@@ -1546,11 +1876,14 @@
     "category": "Car Electronics & GPS",
     "brand": "Seawide",
     "originalValue": 65.99,
-    "currentValue": 6,
+    "currentValue": 18,
     "unitType": "unidade",
-    "unitQuantity": 9,
+    "unitQuantity": 3,
     "images": [
-      "http://img.bbystatic.com/BestBuy_US/images/products/1009/1009511_sa.jpg"
+      {
+        "imageUrl": "http://img.bbystatic.com/BestBuy_US/images/products/1009/1009511_sa.jpg",
+        "order": 1
+      }
     ]
   },
   {
@@ -1560,11 +1893,14 @@
     "category": "Car Electronics & GPS",
     "brand": "Seawide",
     "originalValue": 64.99,
-    "currentValue": 13,
+    "currentValue": 14,
     "unitType": "unidade",
-    "unitQuantity": 6,
+    "unitQuantity": 5,
     "images": [
-      "http://img.bbystatic.com/BestBuy_US/images/products/1009/1009566_sa.jpg"
+      {
+        "imageUrl": "http://img.bbystatic.com/BestBuy_US/images/products/1009/1009566_sa.jpg",
+        "order": 1
+      }
     ]
   },
   {
@@ -1576,9 +1912,12 @@
     "originalValue": 19.99,
     "currentValue": 3.99,
     "unitType": "unidade",
-    "unitQuantity": 19,
+    "unitQuantity": 15,
     "images": [
-      "http://img.bbystatic.com/BestBuy_US/images/products/1010/1010002_sa.jpg"
+      {
+        "imageUrl": "http://img.bbystatic.com/BestBuy_US/images/products/1010/1010002_sa.jpg",
+        "order": 1
+      }
     ]
   },
   {
@@ -1588,11 +1927,14 @@
     "category": "Computers & Tablets",
     "brand": "StarTech",
     "originalValue": 28.99,
-    "currentValue": 16,
+    "currentValue": 0,
     "unitType": "unidade",
-    "unitQuantity": 6,
+    "unitQuantity": 8,
     "images": [
-      "http://img.bbystatic.com/BestBuy_US/images/products/1010/1010004_sa.jpg"
+      {
+        "imageUrl": "http://img.bbystatic.com/BestBuy_US/images/products/1010/1010004_sa.jpg",
+        "order": 1
+      }
     ]
   },
   {
@@ -1602,11 +1944,14 @@
     "category": "Appliances",
     "brand": "KitchenAid",
     "originalValue": 1499.99,
-    "currentValue": 7,
+    "currentValue": 2,
     "unitType": "unidade",
-    "unitQuantity": 1,
+    "unitQuantity": 3,
     "images": [
-      "http://img.bbystatic.com/BestBuy_US/images/products/1010/1010226_sa.jpg"
+      {
+        "imageUrl": "http://img.bbystatic.com/BestBuy_US/images/products/1010/1010226_sa.jpg",
+        "order": 1
+      }
     ]
   },
   {
@@ -1616,11 +1961,14 @@
     "category": "Appliances",
     "brand": "KitchenAid",
     "originalValue": 1599.99,
-    "currentValue": 2,
+    "currentValue": 0,
     "unitType": "unidade",
-    "unitQuantity": 12,
+    "unitQuantity": 6,
     "images": [
-      "http://img.bbystatic.com/BestBuy_US/images/products/1010/1010271_sa.jpg"
+      {
+        "imageUrl": "http://img.bbystatic.com/BestBuy_US/images/products/1010/1010271_sa.jpg",
+        "order": 1
+      }
     ]
   },
   {
@@ -1632,9 +1980,12 @@
     "originalValue": 19.99,
     "currentValue": 5.49,
     "unitType": "unidade",
-    "unitQuantity": 2,
+    "unitQuantity": 19,
     "images": [
-      "http://img.bbystatic.com/BestBuy_US/images/products/1010/1010401_sa.jpg"
+      {
+        "imageUrl": "http://img.bbystatic.com/BestBuy_US/images/products/1010/1010401_sa.jpg",
+        "order": 1
+      }
     ]
   },
   {
@@ -1646,9 +1997,12 @@
     "originalValue": 10.99,
     "currentValue": 5.49,
     "unitType": "unidade",
-    "unitQuantity": 2,
+    "unitQuantity": 1,
     "images": [
-      "http://img.bbystatic.com/BestBuy_US/images/products/1011/1011173_sa.jpg"
+      {
+        "imageUrl": "http://img.bbystatic.com/BestBuy_US/images/products/1011/1011173_sa.jpg",
+        "order": 1
+      }
     ]
   },
   {
@@ -1660,9 +2014,12 @@
     "originalValue": 19.99,
     "currentValue": 3.99,
     "unitType": "unidade",
-    "unitQuantity": 14,
+    "unitQuantity": 4,
     "images": [
-      "http://img.bbystatic.com/BestBuy_US/images/products/1011/1011786_sa.jpg"
+      {
+        "imageUrl": "http://img.bbystatic.com/BestBuy_US/images/products/1011/1011786_sa.jpg",
+        "order": 1
+      }
     ]
   },
   {
@@ -1672,11 +2029,14 @@
     "category": "Appliances",
     "brand": "Magic Bullet",
     "originalValue": 39.99,
-    "currentValue": 6,
+    "currentValue": 10,
     "unitType": "unidade",
-    "unitQuantity": 14,
+    "unitQuantity": 16,
     "images": [
-      "http://img.bbystatic.com/BestBuy_US/images/products/1013/1013848_rc.jpg"
+      {
+        "imageUrl": "http://img.bbystatic.com/BestBuy_US/images/products/1013/1013848_rc.jpg",
+        "order": 1
+      }
     ]
   },
   {
@@ -1686,11 +2046,14 @@
     "category": "Appliances",
     "brand": "Frigidaire",
     "originalValue": 849.99,
-    "currentValue": 9,
+    "currentValue": 7,
     "unitType": "unidade",
-    "unitQuantity": 3,
+    "unitQuantity": 5,
     "images": [
-      "http://img.bbystatic.com/BestBuy_US/images/products/1014/1014008_sa.jpg"
+      {
+        "imageUrl": "http://img.bbystatic.com/BestBuy_US/images/products/1014/1014008_sa.jpg",
+        "order": 1
+      }
     ]
   },
   {
@@ -1702,9 +2065,12 @@
     "originalValue": 14.99,
     "currentValue": 3.99,
     "unitType": "unidade",
-    "unitQuantity": 16,
+    "unitQuantity": 10,
     "images": [
-      "http://img.bbystatic.com/BestBuy_US/images/products/1014/1014073.jpg"
+      {
+        "imageUrl": "http://img.bbystatic.com/BestBuy_US/images/products/1014/1014073.jpg",
+        "order": 1
+      }
     ]
   },
   {
@@ -1716,9 +2082,12 @@
     "originalValue": 19.99,
     "currentValue": 3.99,
     "unitType": "unidade",
-    "unitQuantity": 5,
+    "unitQuantity": 13,
     "images": [
-      "http://img.bbystatic.com/BestBuy_US/images/products/1014/1014329_sa.jpg"
+      {
+        "imageUrl": "http://img.bbystatic.com/BestBuy_US/images/products/1014/1014329_sa.jpg",
+        "order": 1
+      }
     ]
   },
   {
@@ -1728,11 +2097,14 @@
     "category": "Musical Instruments",
     "brand": "Stanton",
     "originalValue": 699.99,
-    "currentValue": 7,
+    "currentValue": 19,
     "unitType": "unidade",
-    "unitQuantity": 7,
+    "unitQuantity": 10,
     "images": [
-      "http://img.bbystatic.com/BestBuy_US/images/products/1014/1014756_sa.jpg"
+      {
+        "imageUrl": "http://img.bbystatic.com/BestBuy_US/images/products/1014/1014756_sa.jpg",
+        "order": 1
+      }
     ]
   },
   {
@@ -1742,11 +2114,14 @@
     "category": "TV & Home Theater",
     "brand": "Elite Screens",
     "originalValue": 269.99,
-    "currentValue": 2,
+    "currentValue": 16,
     "unitType": "unidade",
-    "unitQuantity": 14,
+    "unitQuantity": 11,
     "images": [
-      "http://img.bbystatic.com/BestBuy_US/images/products/1014/1014974_sa.jpg"
+      {
+        "imageUrl": "http://img.bbystatic.com/BestBuy_US/images/products/1014/1014974_sa.jpg",
+        "order": 1
+      }
     ]
   },
   {
@@ -1758,9 +2133,12 @@
     "originalValue": 19.99,
     "currentValue": 3.99,
     "unitType": "unidade",
-    "unitQuantity": 19,
+    "unitQuantity": 8,
     "images": [
-      "http://img.bbystatic.com/BestBuy_US/images/products/1015/1015791_500x500_sa.jpg"
+      {
+        "imageUrl": "http://img.bbystatic.com/BestBuy_US/images/products/1015/1015791_500x500_sa.jpg",
+        "order": 1
+      }
     ]
   },
   {
@@ -1770,11 +2148,14 @@
     "category": "Connected Home & Housewares",
     "brand": "Royal Sovereign",
     "originalValue": 99.99,
-    "currentValue": 1,
+    "currentValue": 19,
     "unitType": "unidade",
-    "unitQuantity": 0,
+    "unitQuantity": 16,
     "images": [
-      "http://img.bbystatic.com/BestBuy_US/images/products/1016/1016584_rc.jpg"
+      {
+        "imageUrl": "http://img.bbystatic.com/BestBuy_US/images/products/1016/1016584_rc.jpg",
+        "order": 1
+      }
     ]
   },
   {
@@ -1784,11 +2165,14 @@
     "category": "Connected Home & Housewares",
     "brand": "Royal Sovereign",
     "originalValue": 99.99,
-    "currentValue": 5,
+    "currentValue": 15,
     "unitType": "unidade",
-    "unitQuantity": 5,
+    "unitQuantity": 6,
     "images": [
-      "http://img.bbystatic.com/BestBuy_US/images/products/1016/1016618_sa.jpg"
+      {
+        "imageUrl": "http://img.bbystatic.com/BestBuy_US/images/products/1016/1016618_sa.jpg",
+        "order": 1
+      }
     ]
   },
   {
@@ -1798,11 +2182,14 @@
     "category": "Connected Home & Housewares",
     "brand": "Royal Sovereign",
     "originalValue": 79.99,
-    "currentValue": 15,
+    "currentValue": 7,
     "unitType": "unidade",
-    "unitQuantity": 16,
+    "unitQuantity": 10,
     "images": [
-      "http://img.bbystatic.com/BestBuy_US/images/products/1016/1016627_sa.jpg"
+      {
+        "imageUrl": "http://img.bbystatic.com/BestBuy_US/images/products/1016/1016627_sa.jpg",
+        "order": 1
+      }
     ]
   },
   {
@@ -1812,11 +2199,14 @@
     "category": "Connected Home & Housewares",
     "brand": "Livescribe",
     "originalValue": 24.99,
-    "currentValue": 12,
+    "currentValue": 2,
     "unitType": "unidade",
-    "unitQuantity": 5,
+    "unitQuantity": 1,
     "images": [
-      "http://img.bbystatic.com/BestBuy_US/images/products/1016/1016827_sa.jpg"
+      {
+        "imageUrl": "http://img.bbystatic.com/BestBuy_US/images/products/1016/1016827_sa.jpg",
+        "order": 1
+      }
     ]
   },
   {
@@ -1826,11 +2216,14 @@
     "category": "Computers & Tablets",
     "brand": "EVGA",
     "originalValue": 59.99,
-    "currentValue": 6,
+    "currentValue": 17,
     "unitType": "unidade",
-    "unitQuantity": 17,
+    "unitQuantity": 15,
     "images": [
-      "http://img.bbystatic.com/BestBuy_US/images/products/1017/1017256_sa.jpg"
+      {
+        "imageUrl": "http://img.bbystatic.com/BestBuy_US/images/products/1017/1017256_sa.jpg",
+        "order": 1
+      }
     ]
   },
   {
@@ -1842,9 +2235,12 @@
     "originalValue": 14.99,
     "currentValue": 5.99,
     "unitType": "unidade",
-    "unitQuantity": 18,
+    "unitQuantity": 9,
     "images": [
-      "http://img.bbystatic.com/BestBuy_US/images/products/1018/1018273_rc.jpg"
+      {
+        "imageUrl": "http://img.bbystatic.com/BestBuy_US/images/products/1018/1018273_rc.jpg",
+        "order": 1
+      }
     ]
   },
   {
@@ -1856,9 +2252,12 @@
     "originalValue": 19.99,
     "currentValue": 3.99,
     "unitType": "unidade",
-    "unitQuantity": 8,
+    "unitQuantity": 6,
     "images": [
-      "http://img.bbystatic.com/BestBuy_US/images/products/1018/1018934_sa.jpg"
+      {
+        "imageUrl": "http://img.bbystatic.com/BestBuy_US/images/products/1018/1018934_sa.jpg",
+        "order": 1
+      }
     ]
   },
   {
@@ -1868,11 +2267,14 @@
     "category": "Audio",
     "brand": "Stanton",
     "originalValue": 39.99,
-    "currentValue": 8,
+    "currentValue": 6,
     "unitType": "unidade",
     "unitQuantity": 5,
     "images": [
-      "http://img.bbystatic.com/BestBuy_US/images/products/1019/1019184_sa.jpg"
+      {
+        "imageUrl": "http://img.bbystatic.com/BestBuy_US/images/products/1019/1019184_sa.jpg",
+        "order": 1
+      }
     ]
   },
   {
@@ -1884,9 +2286,12 @@
     "originalValue": 29.99,
     "currentValue": 5.49,
     "unitType": "unidade",
-    "unitQuantity": 8,
+    "unitQuantity": 12,
     "images": [
-      "http://img.bbystatic.com/BestBuy_US/images/products/1019/1019245_rc.jpg"
+      {
+        "imageUrl": "http://img.bbystatic.com/BestBuy_US/images/products/1019/1019245_rc.jpg",
+        "order": 1
+      }
     ]
   },
   {
@@ -1896,11 +2301,14 @@
     "category": "Car Electronics & GPS",
     "brand": "Metra",
     "originalValue": 16.99,
-    "currentValue": 16,
+    "currentValue": 13,
     "unitType": "unidade",
-    "unitQuantity": 10,
+    "unitQuantity": 1,
     "images": [
-      "http://img.bbystatic.com/BestBuy_US/images/products/1019/1019281_sa.jpg"
+      {
+        "imageUrl": "http://img.bbystatic.com/BestBuy_US/images/products/1019/1019281_sa.jpg",
+        "order": 1
+      }
     ]
   },
   {
@@ -1910,11 +2318,14 @@
     "category": "Name Brands",
     "brand": "Apple",
     "originalValue": 79.99,
-    "currentValue": 15,
+    "currentValue": 17,
     "unitType": "unidade",
-    "unitQuantity": 6,
+    "unitQuantity": 7,
     "images": [
-      "http://img.bbystatic.com/BestBuy_US/images/products/1019/1019306_sa.jpg"
+      {
+        "imageUrl": "http://img.bbystatic.com/BestBuy_US/images/products/1019/1019306_sa.jpg",
+        "order": 1
+      }
     ]
   },
   {
@@ -1926,9 +2337,12 @@
     "originalValue": 14.99,
     "currentValue": 3.99,
     "unitType": "unidade",
-    "unitQuantity": 15,
+    "unitQuantity": 16,
     "images": [
-      "http://img.bbystatic.com/BestBuy_US/images/products/1019/1019388_sa.jpg"
+      {
+        "imageUrl": "http://img.bbystatic.com/BestBuy_US/images/products/1019/1019388_sa.jpg",
+        "order": 1
+      }
     ]
   },
   {
@@ -1938,11 +2352,14 @@
     "category": "Car Electronics & GPS",
     "brand": "Metra",
     "originalValue": 16.99,
-    "currentValue": 12,
+    "currentValue": 14,
     "unitType": "unidade",
-    "unitQuantity": 13,
+    "unitQuantity": 4,
     "images": [
-      "http://img.bbystatic.com/BestBuy_US/images/products/1019/1019518_sa.jpg"
+      {
+        "imageUrl": "http://img.bbystatic.com/BestBuy_US/images/products/1019/1019518_sa.jpg",
+        "order": 1
+      }
     ]
   },
   {
@@ -1952,11 +2369,14 @@
     "category": "Car Electronics & GPS",
     "brand": "Metra",
     "originalValue": 49.99,
-    "currentValue": 1,
+    "currentValue": 16,
     "unitType": "unidade",
-    "unitQuantity": 6,
+    "unitQuantity": 0,
     "images": [
-      "http://img.bbystatic.com/BestBuy_US/images/products/1020/1020205_sa.jpg"
+      {
+        "imageUrl": "http://img.bbystatic.com/BestBuy_US/images/products/1020/1020205_sa.jpg",
+        "order": 1
+      }
     ]
   },
   {
@@ -1966,11 +2386,14 @@
     "category": "Computers & Tablets",
     "brand": "EVGA",
     "originalValue": 569.99,
-    "currentValue": 2,
+    "currentValue": 14,
     "unitType": "unidade",
-    "unitQuantity": 10,
+    "unitQuantity": 8,
     "images": [
-      "http://img.bbystatic.com/BestBuy_US/images/products/1021/1021007_sa.jpg"
+      {
+        "imageUrl": "http://img.bbystatic.com/BestBuy_US/images/products/1021/1021007_sa.jpg",
+        "order": 1
+      }
     ]
   },
   {
@@ -1980,11 +2403,14 @@
     "category": "Car Electronics & GPS",
     "brand": "Metra",
     "originalValue": 49.99,
-    "currentValue": 1,
+    "currentValue": 16,
     "unitType": "unidade",
-    "unitQuantity": 18,
+    "unitQuantity": 2,
     "images": [
-      "http://img.bbystatic.com/BestBuy_US/images/products/1021/1021152_sa.jpg"
+      {
+        "imageUrl": "http://img.bbystatic.com/BestBuy_US/images/products/1021/1021152_sa.jpg",
+        "order": 1
+      }
     ]
   },
   {
@@ -1996,9 +2422,12 @@
     "originalValue": 34.99,
     "currentValue": 5.99,
     "unitType": "unidade",
-    "unitQuantity": 4,
+    "unitQuantity": 1,
     "images": [
-      "http://img.bbystatic.com/BestBuy_US/images/products/1021/1021683_rc.jpg"
+      {
+        "imageUrl": "http://img.bbystatic.com/BestBuy_US/images/products/1021/1021683_rc.jpg",
+        "order": 1
+      }
     ]
   },
   {
@@ -2010,9 +2439,12 @@
     "originalValue": 29.99,
     "currentValue": 3.99,
     "unitType": "unidade",
-    "unitQuantity": 8,
+    "unitQuantity": 5,
     "images": [
-      "http://img.bbystatic.com/BestBuy_US/images/products/1023/1023363_500x500_sa.jpg"
+      {
+        "imageUrl": "http://img.bbystatic.com/BestBuy_US/images/products/1023/1023363_500x500_sa.jpg",
+        "order": 1
+      }
     ]
   },
   {
@@ -2022,11 +2454,14 @@
     "category": "TV & Home Theater",
     "brand": "Niles",
     "originalValue": 279.99,
-    "currentValue": 9,
+    "currentValue": 11,
     "unitType": "unidade",
-    "unitQuantity": 12,
+    "unitQuantity": 8,
     "images": [
-      "http://img.bbystatic.com/BestBuy_US/images/products/1027/1027599_sa.jpg"
+      {
+        "imageUrl": "http://img.bbystatic.com/BestBuy_US/images/products/1027/1027599_sa.jpg",
+        "order": 1
+      }
     ]
   },
   {
@@ -2036,11 +2471,14 @@
     "category": "TV & Home Theater",
     "brand": "Elite Screens",
     "originalValue": 114.99,
-    "currentValue": 1,
+    "currentValue": 7,
     "unitType": "unidade",
-    "unitQuantity": 4,
+    "unitQuantity": 18,
     "images": [
-      "http://img.bbystatic.com/BestBuy_US/images/products/1027/1027714_sa.jpg"
+      {
+        "imageUrl": "http://img.bbystatic.com/BestBuy_US/images/products/1027/1027714_sa.jpg",
+        "order": 1
+      }
     ]
   },
   {
@@ -2050,11 +2488,14 @@
     "category": "TV & Home Theater",
     "brand": "Chief",
     "originalValue": 64.99,
-    "currentValue": 19,
+    "currentValue": 5,
     "unitType": "unidade",
-    "unitQuantity": 8,
+    "unitQuantity": 19,
     "images": [
-      "http://img.bbystatic.com/BestBuy_US/images/products/1029/1029367_sa.jpg"
+      {
+        "imageUrl": "http://img.bbystatic.com/BestBuy_US/images/products/1029/1029367_sa.jpg",
+        "order": 1
+      }
     ]
   },
   {
@@ -2064,11 +2505,14 @@
     "category": "Musical Instruments",
     "brand": "Audio-Technica",
     "originalValue": 149.99,
-    "currentValue": 19,
+    "currentValue": 16,
     "unitType": "unidade",
-    "unitQuantity": 17,
+    "unitQuantity": 10,
     "images": [
-      "http://img.bbystatic.com/BestBuy_US/images/products/1031/1031353_sa.jpg"
+      {
+        "imageUrl": "http://img.bbystatic.com/BestBuy_US/images/products/1031/1031353_sa.jpg",
+        "order": 1
+      }
     ]
   },
   {
@@ -2078,11 +2522,14 @@
     "category": "Musical Instruments",
     "brand": "Audio-Technica",
     "originalValue": 299.99,
-    "currentValue": 4,
+    "currentValue": 14,
     "unitType": "unidade",
-    "unitQuantity": 10,
+    "unitQuantity": 12,
     "images": [
-      "http://img.bbystatic.com/BestBuy_US/images/products/1031/1031371_sa.jpg"
+      {
+        "imageUrl": "http://img.bbystatic.com/BestBuy_US/images/products/1031/1031371_sa.jpg",
+        "order": 1
+      }
     ]
   },
   {
@@ -2092,11 +2539,14 @@
     "category": "Musical Instruments",
     "brand": "Audio-Technica",
     "originalValue": 119.99,
-    "currentValue": 15,
+    "currentValue": 3,
     "unitType": "unidade",
-    "unitQuantity": 9,
+    "unitQuantity": 3,
     "images": [
-      "http://img.bbystatic.com/BestBuy_US/images/products/1031/1031404_sa.jpg"
+      {
+        "imageUrl": "http://img.bbystatic.com/BestBuy_US/images/products/1031/1031404_sa.jpg",
+        "order": 1
+      }
     ]
   },
   {
@@ -2106,11 +2556,14 @@
     "category": "Musical Instruments",
     "brand": "Audio-Technica",
     "originalValue": 595.99,
-    "currentValue": 17,
+    "currentValue": 11,
     "unitType": "unidade",
-    "unitQuantity": 6,
+    "unitQuantity": 8,
     "images": [
-      "http://img.bbystatic.com/BestBuy_US/images/products/1031/1031726_sa.jpg"
+      {
+        "imageUrl": "http://img.bbystatic.com/BestBuy_US/images/products/1031/1031726_sa.jpg",
+        "order": 1
+      }
     ]
   },
   {
@@ -2120,11 +2573,14 @@
     "category": "Cameras & Camcorders",
     "brand": "Nikon",
     "originalValue": 799.99,
-    "currentValue": 5,
+    "currentValue": 20,
     "unitType": "unidade",
-    "unitQuantity": 9,
+    "unitQuantity": 19,
     "images": [
-      "http://img.bbystatic.com/BestBuy_US/images/products/1032/1032001_sa.jpg"
+      {
+        "imageUrl": "http://img.bbystatic.com/BestBuy_US/images/products/1032/1032001_sa.jpg",
+        "order": 1
+      }
     ]
   },
   {
@@ -2134,11 +2590,14 @@
     "category": "Computers & Tablets",
     "brand": "PNY",
     "originalValue": 59.99,
-    "currentValue": 6,
+    "currentValue": 17,
     "unitType": "unidade",
-    "unitQuantity": 3,
+    "unitQuantity": 15,
     "images": [
-      "http://img.bbystatic.com/BestBuy_US/images/products/1032/1032038_sa.jpg"
+      {
+        "imageUrl": "http://img.bbystatic.com/BestBuy_US/images/products/1032/1032038_sa.jpg",
+        "order": 1
+      }
     ]
   },
   {
@@ -2148,11 +2607,14 @@
     "category": "Computers & Tablets",
     "brand": "Dell",
     "originalValue": 65.99,
-    "currentValue": 0,
+    "currentValue": 10,
     "unitType": "unidade",
-    "unitQuantity": 9,
+    "unitQuantity": 16,
     "images": [
-      "http://img.bbystatic.com/BestBuy_US/images/products/1032/1032198_sa.jpg"
+      {
+        "imageUrl": "http://img.bbystatic.com/BestBuy_US/images/products/1032/1032198_sa.jpg",
+        "order": 1
+      }
     ]
   },
   {
@@ -2164,9 +2626,12 @@
     "originalValue": 19.99,
     "currentValue": 3.99,
     "unitType": "unidade",
-    "unitQuantity": 8,
+    "unitQuantity": 3,
     "images": [
-      "http://img.bbystatic.com/BestBuy_US/images/products/1032/1032403_sa.jpg"
+      {
+        "imageUrl": "http://img.bbystatic.com/BestBuy_US/images/products/1032/1032403_sa.jpg",
+        "order": 1
+      }
     ]
   },
   {
@@ -2178,9 +2643,12 @@
     "originalValue": 22.99,
     "currentValue": 5.99,
     "unitType": "unidade",
-    "unitQuantity": 10,
+    "unitQuantity": 6,
     "images": [
-      "http://img.bbystatic.com/BestBuy_US/images/products/1033/1033032_rc.jpg"
+      {
+        "imageUrl": "http://img.bbystatic.com/BestBuy_US/images/products/1033/1033032_rc.jpg",
+        "order": 1
+      }
     ]
   },
   {
@@ -2190,11 +2658,14 @@
     "category": "Appliances",
     "brand": "Frigidaire",
     "originalValue": 229.99,
-    "currentValue": 2,
+    "currentValue": 8,
     "unitType": "unidade",
-    "unitQuantity": 5,
+    "unitQuantity": 9,
     "images": [
-      "http://img.bbystatic.com/BestBuy_US/images/products/1033/1033096_sa.jpg"
+      {
+        "imageUrl": "http://img.bbystatic.com/BestBuy_US/images/products/1033/1033096_sa.jpg",
+        "order": 1
+      }
     ]
   },
   {
@@ -2206,9 +2677,12 @@
     "originalValue": 19.99,
     "currentValue": 3.99,
     "unitType": "unidade",
-    "unitQuantity": 1,
+    "unitQuantity": 12,
     "images": [
-      "http://img.bbystatic.com/BestBuy_US/images/products/1034/1034009_sa.jpg"
+      {
+        "imageUrl": "http://img.bbystatic.com/BestBuy_US/images/products/1034/1034009_sa.jpg",
+        "order": 1
+      }
     ]
   },
   {
@@ -2220,9 +2694,12 @@
     "originalValue": 19.99,
     "currentValue": 3.99,
     "unitType": "unidade",
-    "unitQuantity": 0,
+    "unitQuantity": 8,
     "images": [
-      "http://img.bbystatic.com/BestBuy_US/images/products/1034/1034018_sa.jpg"
+      {
+        "imageUrl": "http://img.bbystatic.com/BestBuy_US/images/products/1034/1034018_sa.jpg",
+        "order": 1
+      }
     ]
   },
   {
@@ -2234,9 +2711,12 @@
     "originalValue": 9.99,
     "currentValue": 3.99,
     "unitType": "unidade",
-    "unitQuantity": 8,
+    "unitQuantity": 4,
     "images": [
-      "http://img.bbystatic.com/BestBuy_US/images/products/1034/1034027_sa.jpg"
+      {
+        "imageUrl": "http://img.bbystatic.com/BestBuy_US/images/products/1034/1034027_sa.jpg",
+        "order": 1
+      }
     ]
   },
   {
@@ -2248,9 +2728,12 @@
     "originalValue": 9.99,
     "currentValue": 3.99,
     "unitType": "unidade",
-    "unitQuantity": 0,
+    "unitQuantity": 17,
     "images": [
-      "http://img.bbystatic.com/BestBuy_US/images/products/1034/1034036_sa.jpg"
+      {
+        "imageUrl": "http://img.bbystatic.com/BestBuy_US/images/products/1034/1034036_sa.jpg",
+        "order": 1
+      }
     ]
   },
   {
@@ -2262,9 +2745,12 @@
     "originalValue": 14.99,
     "currentValue": 3.99,
     "unitType": "unidade",
-    "unitQuantity": 2,
+    "unitQuantity": 10,
     "images": [
-      "http://img.bbystatic.com/BestBuy_US/images/products/1034/1034045_sa.jpg"
+      {
+        "imageUrl": "http://img.bbystatic.com/BestBuy_US/images/products/1034/1034045_sa.jpg",
+        "order": 1
+      }
     ]
   },
   {
@@ -2276,9 +2762,12 @@
     "originalValue": 14.99,
     "currentValue": 3.99,
     "unitType": "unidade",
-    "unitQuantity": 5,
+    "unitQuantity": 6,
     "images": [
-      "http://img.bbystatic.com/BestBuy_US/images/products/1034/1034072_sa.jpg"
+      {
+        "imageUrl": "http://img.bbystatic.com/BestBuy_US/images/products/1034/1034072_sa.jpg",
+        "order": 1
+      }
     ]
   },
   {
@@ -2290,9 +2779,12 @@
     "originalValue": 14.99,
     "currentValue": 3.99,
     "unitType": "unidade",
-    "unitQuantity": 6,
+    "unitQuantity": 8,
     "images": [
-      "http://img.bbystatic.com/BestBuy_US/images/products/1034/1034081_sa.jpg"
+      {
+        "imageUrl": "http://img.bbystatic.com/BestBuy_US/images/products/1034/1034081_sa.jpg",
+        "order": 1
+      }
     ]
   },
   {
@@ -2304,9 +2796,12 @@
     "originalValue": 14.99,
     "currentValue": 3.99,
     "unitType": "unidade",
-    "unitQuantity": 19,
+    "unitQuantity": 1,
     "images": [
-      "http://img.bbystatic.com/BestBuy_US/images/products/1034/1034105_sa.jpg"
+      {
+        "imageUrl": "http://img.bbystatic.com/BestBuy_US/images/products/1034/1034105_sa.jpg",
+        "order": 1
+      }
     ]
   },
   {
@@ -2316,11 +2811,14 @@
     "category": "Health, Fitness & Beauty",
     "brand": "CHI",
     "originalValue": 99.99,
-    "currentValue": 0,
+    "currentValue": 4,
     "unitType": "unidade",
-    "unitQuantity": 19,
+    "unitQuantity": 8,
     "images": [
-      "http://img.bbystatic.com/BestBuy_US/images/products/1034/1034544_rc.jpg"
+      {
+        "imageUrl": "http://img.bbystatic.com/BestBuy_US/images/products/1034/1034544_rc.jpg",
+        "order": 1
+      }
     ]
   },
   {
@@ -2330,11 +2828,14 @@
     "category": "Computers & Tablets",
     "brand": "StarTech",
     "originalValue": 44.99,
-    "currentValue": 19,
+    "currentValue": 1,
     "unitType": "unidade",
-    "unitQuantity": 2,
+    "unitQuantity": 12,
     "images": [
-      "http://img.bbystatic.com/BestBuy_US/images/products/1035/1035786_rc.jpg"
+      {
+        "imageUrl": "http://img.bbystatic.com/BestBuy_US/images/products/1035/1035786_rc.jpg",
+        "order": 1
+      }
     ]
   },
   {
@@ -2344,11 +2845,14 @@
     "category": "Appliances",
     "brand": "Hamilton Beach",
     "originalValue": 37.54,
-    "currentValue": 4,
+    "currentValue": 12,
     "unitType": "unidade",
-    "unitQuantity": 3,
+    "unitQuantity": 10,
     "images": [
-      "http://img.bbystatic.com/BestBuy_US/images/products/1036/1036658_rc.jpg"
+      {
+        "imageUrl": "http://img.bbystatic.com/BestBuy_US/images/products/1036/1036658_rc.jpg",
+        "order": 1
+      }
     ]
   },
   {
@@ -2360,9 +2864,12 @@
     "originalValue": 7.99,
     "currentValue": 5.49,
     "unitType": "unidade",
-    "unitQuantity": 8,
+    "unitQuantity": 3,
     "images": [
-      "http://img.bbystatic.com/BestBuy_US/images/products/1036/1036821_sa.jpg"
+      {
+        "imageUrl": "http://img.bbystatic.com/BestBuy_US/images/products/1036/1036821_sa.jpg",
+        "order": 1
+      }
     ]
   },
   {
@@ -2372,11 +2879,14 @@
     "category": "Cell Phones",
     "brand": "Nanette Lepore",
     "originalValue": 4.99,
-    "currentValue": 16,
+    "currentValue": 18,
     "unitType": "unidade",
     "unitQuantity": 17,
     "images": [
-      "http://img.bbystatic.com/BestBuy_US/images/products/1042/1042043_sa.jpg"
+      {
+        "imageUrl": "http://img.bbystatic.com/BestBuy_US/images/products/1042/1042043_sa.jpg",
+        "order": 1
+      }
     ]
   },
   {
@@ -2390,7 +2900,10 @@
     "unitType": "unidade",
     "unitQuantity": 13,
     "images": [
-      "http://img.bbystatic.com/BestBuy_US/images/products/1044/1044069_sa.jpg"
+      {
+        "imageUrl": "http://img.bbystatic.com/BestBuy_US/images/products/1044/1044069_sa.jpg",
+        "order": 1
+      }
     ]
   },
   {
@@ -2402,9 +2915,12 @@
     "originalValue": 29.99,
     "currentValue": 5.49,
     "unitType": "unidade",
-    "unitQuantity": 10,
+    "unitQuantity": 8,
     "images": [
-      "http://img.bbystatic.com/BestBuy_US/images/products/1044/1044101_sa.jpg"
+      {
+        "imageUrl": "http://img.bbystatic.com/BestBuy_US/images/products/1044/1044101_sa.jpg",
+        "order": 1
+      }
     ]
   },
   {
@@ -2416,9 +2932,12 @@
     "originalValue": 29.99,
     "currentValue": 5.49,
     "unitType": "unidade",
-    "unitQuantity": 9,
+    "unitQuantity": 8,
     "images": [
-      "http://img.bbystatic.com/BestBuy_US/images/products/1044/1044174_sa.jpg"
+      {
+        "imageUrl": "http://img.bbystatic.com/BestBuy_US/images/products/1044/1044174_sa.jpg",
+        "order": 1
+      }
     ]
   },
   {
@@ -2428,11 +2947,14 @@
     "category": "Cell Phones",
     "brand": "Altec",
     "originalValue": 49.99,
-    "currentValue": 3,
+    "currentValue": 12,
     "unitType": "unidade",
-    "unitQuantity": 11,
+    "unitQuantity": 12,
     "images": [
-      "http://img.bbystatic.com/BestBuy_US/images/products/1044/1044289_sa.jpg"
+      {
+        "imageUrl": "http://img.bbystatic.com/BestBuy_US/images/products/1044/1044289_sa.jpg",
+        "order": 1
+      }
     ]
   },
   {
@@ -2444,9 +2966,12 @@
     "originalValue": 14.99,
     "currentValue": 5.49,
     "unitType": "unidade",
-    "unitQuantity": 15,
+    "unitQuantity": 7,
     "images": [
-      "http://img.bbystatic.com/BestBuy_US/images/products/1044/1044302_sa.jpg"
+      {
+        "imageUrl": "http://img.bbystatic.com/BestBuy_US/images/products/1044/1044302_sa.jpg",
+        "order": 1
+      }
     ]
   },
   {
@@ -2456,11 +2981,14 @@
     "category": "Cell Phones",
     "brand": "Altec",
     "originalValue": 29.99,
-    "currentValue": 16,
+    "currentValue": 7,
     "unitType": "unidade",
-    "unitQuantity": 10,
+    "unitQuantity": 1,
     "images": [
-      "http://img.bbystatic.com/BestBuy_US/images/products/1044/1044339_sa.jpg"
+      {
+        "imageUrl": "http://img.bbystatic.com/BestBuy_US/images/products/1044/1044339_sa.jpg",
+        "order": 1
+      }
     ]
   },
   {
@@ -2472,9 +3000,12 @@
     "originalValue": 14.99,
     "currentValue": 5.49,
     "unitType": "unidade",
-    "unitQuantity": 18,
+    "unitQuantity": 15,
     "images": [
-      "http://img.bbystatic.com/BestBuy_US/images/products/1044/1044348_sa.jpg"
+      {
+        "imageUrl": "http://img.bbystatic.com/BestBuy_US/images/products/1044/1044348_sa.jpg",
+        "order": 1
+      }
     ]
   },
   {
@@ -2486,9 +3017,12 @@
     "originalValue": 14.99,
     "currentValue": 5.49,
     "unitType": "unidade",
-    "unitQuantity": 6,
+    "unitQuantity": 15,
     "images": [
-      "http://img.bbystatic.com/BestBuy_US/images/products/1044/1044357_sa.jpg"
+      {
+        "imageUrl": "http://img.bbystatic.com/BestBuy_US/images/products/1044/1044357_sa.jpg",
+        "order": 1
+      }
     ]
   },
   {
@@ -2500,9 +3034,12 @@
     "originalValue": 19.99,
     "currentValue": 5.49,
     "unitType": "unidade",
-    "unitQuantity": 8,
+    "unitQuantity": 5,
     "images": [
-      "http://img.bbystatic.com/BestBuy_US/images/products/1046/1046049_sa.jpg"
+      {
+        "imageUrl": "http://img.bbystatic.com/BestBuy_US/images/products/1046/1046049_sa.jpg",
+        "order": 1
+      }
     ]
   },
   {
@@ -2514,9 +3051,12 @@
     "originalValue": 19.99,
     "currentValue": 5.49,
     "unitType": "unidade",
-    "unitQuantity": 6,
+    "unitQuantity": 19,
     "images": [
-      "http://img.bbystatic.com/BestBuy_US/images/products/1046/1046058_sa.jpg"
+      {
+        "imageUrl": "http://img.bbystatic.com/BestBuy_US/images/products/1046/1046058_sa.jpg",
+        "order": 1
+      }
     ]
   },
   {
@@ -2528,9 +3068,12 @@
     "originalValue": 19.99,
     "currentValue": 5.49,
     "unitType": "unidade",
-    "unitQuantity": 12,
+    "unitQuantity": 1,
     "images": [
-      "http://img.bbystatic.com/BestBuy_US/images/products/1046/1046067_sa.jpg"
+      {
+        "imageUrl": "http://img.bbystatic.com/BestBuy_US/images/products/1046/1046067_sa.jpg",
+        "order": 1
+      }
     ]
   },
   {
@@ -2542,9 +3085,12 @@
     "originalValue": 9.99,
     "currentValue": 3.99,
     "unitType": "unidade",
-    "unitQuantity": 3,
+    "unitQuantity": 12,
     "images": [
-      "http://img.bbystatic.com/BestBuy_US/images/products/1046/1046109_sa.jpg"
+      {
+        "imageUrl": "http://img.bbystatic.com/BestBuy_US/images/products/1046/1046109_sa.jpg",
+        "order": 1
+      }
     ]
   },
   {
@@ -2556,9 +3102,12 @@
     "originalValue": 19.99,
     "currentValue": 5.49,
     "unitType": "unidade",
-    "unitQuantity": 10,
+    "unitQuantity": 4,
     "images": [
-      "http://img.bbystatic.com/BestBuy_US/images/products/1046/1046118_sa.jpg"
+      {
+        "imageUrl": "http://img.bbystatic.com/BestBuy_US/images/products/1046/1046118_sa.jpg",
+        "order": 1
+      }
     ]
   },
   {
@@ -2570,9 +3119,12 @@
     "originalValue": 19.99,
     "currentValue": 5.49,
     "unitType": "unidade",
-    "unitQuantity": 7,
+    "unitQuantity": 9,
     "images": [
-      "http://img.bbystatic.com/BestBuy_US/images/products/1046/1046136_sa.jpg"
+      {
+        "imageUrl": "http://img.bbystatic.com/BestBuy_US/images/products/1046/1046136_sa.jpg",
+        "order": 1
+      }
     ]
   },
   {
@@ -2584,9 +3136,12 @@
     "originalValue": 19.99,
     "currentValue": 5.49,
     "unitType": "unidade",
-    "unitQuantity": 8,
+    "unitQuantity": 10,
     "images": [
-      "http://img.bbystatic.com/BestBuy_US/images/products/1046/1046145_sa.jpg"
+      {
+        "imageUrl": "http://img.bbystatic.com/BestBuy_US/images/products/1046/1046145_sa.jpg",
+        "order": 1
+      }
     ]
   },
   {
@@ -2598,9 +3153,12 @@
     "originalValue": 19.99,
     "currentValue": 5.49,
     "unitType": "unidade",
-    "unitQuantity": 10,
+    "unitQuantity": 4,
     "images": [
-      "http://img.bbystatic.com/BestBuy_US/images/products/1046/1046154_sa.jpg"
+      {
+        "imageUrl": "http://img.bbystatic.com/BestBuy_US/images/products/1046/1046154_sa.jpg",
+        "order": 1
+      }
     ]
   },
   {
@@ -2612,9 +3170,12 @@
     "originalValue": 19.99,
     "currentValue": 5.49,
     "unitType": "unidade",
-    "unitQuantity": 11,
+    "unitQuantity": 12,
     "images": [
-      "http://img.bbystatic.com/BestBuy_US/images/products/1046/1046163_sa.jpg"
+      {
+        "imageUrl": "http://img.bbystatic.com/BestBuy_US/images/products/1046/1046163_sa.jpg",
+        "order": 1
+      }
     ]
   },
   {
@@ -2626,9 +3187,12 @@
     "originalValue": 19.99,
     "currentValue": 5.49,
     "unitType": "unidade",
-    "unitQuantity": 4,
+    "unitQuantity": 14,
     "images": [
-      "http://img.bbystatic.com/BestBuy_US/images/products/1046/1046172_sa.jpg"
+      {
+        "imageUrl": "http://img.bbystatic.com/BestBuy_US/images/products/1046/1046172_sa.jpg",
+        "order": 1
+      }
     ]
   },
   {
@@ -2640,9 +3204,12 @@
     "originalValue": 19.99,
     "currentValue": 5.49,
     "unitType": "unidade",
-    "unitQuantity": 6,
+    "unitQuantity": 7,
     "images": [
-      "http://img.bbystatic.com/BestBuy_US/images/products/1046/1046181_sa.jpg"
+      {
+        "imageUrl": "http://img.bbystatic.com/BestBuy_US/images/products/1046/1046181_sa.jpg",
+        "order": 1
+      }
     ]
   },
   {
@@ -2654,9 +3221,12 @@
     "originalValue": 19.99,
     "currentValue": 5.49,
     "unitType": "unidade",
-    "unitQuantity": 15,
+    "unitQuantity": 17,
     "images": [
-      "http://img.bbystatic.com/BestBuy_US/images/products/1046/1046205_sa.jpg"
+      {
+        "imageUrl": "http://img.bbystatic.com/BestBuy_US/images/products/1046/1046205_sa.jpg",
+        "order": 1
+      }
     ]
   },
   {
@@ -2668,9 +3238,12 @@
     "originalValue": 19.99,
     "currentValue": 5.49,
     "unitType": "unidade",
-    "unitQuantity": 0,
+    "unitQuantity": 9,
     "images": [
-      "http://img.bbystatic.com/BestBuy_US/images/products/1046/1046214_sa.jpg"
+      {
+        "imageUrl": "http://img.bbystatic.com/BestBuy_US/images/products/1046/1046214_sa.jpg",
+        "order": 1
+      }
     ]
   },
   {
@@ -2682,9 +3255,12 @@
     "originalValue": 19.99,
     "currentValue": 5.49,
     "unitType": "unidade",
-    "unitQuantity": 15,
+    "unitQuantity": 3,
     "images": [
-      "http://img.bbystatic.com/BestBuy_US/images/products/1046/1046232_sa.jpg"
+      {
+        "imageUrl": "http://img.bbystatic.com/BestBuy_US/images/products/1046/1046232_sa.jpg",
+        "order": 1
+      }
     ]
   },
   {
@@ -2696,9 +3272,12 @@
     "originalValue": 19.99,
     "currentValue": 5.49,
     "unitType": "unidade",
-    "unitQuantity": 17,
+    "unitQuantity": 2,
     "images": [
-      "http://img.bbystatic.com/BestBuy_US/images/products/1046/1046241_sa.jpg"
+      {
+        "imageUrl": "http://img.bbystatic.com/BestBuy_US/images/products/1046/1046241_sa.jpg",
+        "order": 1
+      }
     ]
   },
   {
@@ -2710,9 +3289,12 @@
     "originalValue": 19.99,
     "currentValue": 5.49,
     "unitType": "unidade",
-    "unitQuantity": 1,
+    "unitQuantity": 9,
     "images": [
-      "http://img.bbystatic.com/BestBuy_US/images/products/1046/1046269_sa.jpg"
+      {
+        "imageUrl": "http://img.bbystatic.com/BestBuy_US/images/products/1046/1046269_sa.jpg",
+        "order": 1
+      }
     ]
   },
   {
@@ -2724,9 +3306,12 @@
     "originalValue": 19.99,
     "currentValue": 5.49,
     "unitType": "unidade",
-    "unitQuantity": 4,
+    "unitQuantity": 10,
     "images": [
-      "http://img.bbystatic.com/BestBuy_US/images/products/1046/1046278_sa.jpg"
+      {
+        "imageUrl": "http://img.bbystatic.com/BestBuy_US/images/products/1046/1046278_sa.jpg",
+        "order": 1
+      }
     ]
   },
   {
@@ -2738,9 +3323,12 @@
     "originalValue": 19.99,
     "currentValue": 5.49,
     "unitType": "unidade",
-    "unitQuantity": 10,
+    "unitQuantity": 2,
     "images": [
-      "http://img.bbystatic.com/BestBuy_US/images/products/1046/1046287_sa.jpg"
+      {
+        "imageUrl": "http://img.bbystatic.com/BestBuy_US/images/products/1046/1046287_sa.jpg",
+        "order": 1
+      }
     ]
   },
   {
@@ -2752,9 +3340,12 @@
     "originalValue": 19.99,
     "currentValue": 5.49,
     "unitType": "unidade",
-    "unitQuantity": 11,
+    "unitQuantity": 10,
     "images": [
-      "http://img.bbystatic.com/BestBuy_US/images/products/1046/1046319_sa.jpg"
+      {
+        "imageUrl": "http://img.bbystatic.com/BestBuy_US/images/products/1046/1046319_sa.jpg",
+        "order": 1
+      }
     ]
   },
   {
@@ -2766,9 +3357,12 @@
     "originalValue": 19.99,
     "currentValue": 5.49,
     "unitType": "unidade",
-    "unitQuantity": 11,
+    "unitQuantity": 5,
     "images": [
-      "http://img.bbystatic.com/BestBuy_US/images/products/1046/1046328_sa.jpg"
+      {
+        "imageUrl": "http://img.bbystatic.com/BestBuy_US/images/products/1046/1046328_sa.jpg",
+        "order": 1
+      }
     ]
   },
   {
@@ -2780,9 +3374,12 @@
     "originalValue": 19.99,
     "currentValue": 5.49,
     "unitType": "unidade",
-    "unitQuantity": 14,
+    "unitQuantity": 12,
     "images": [
-      "http://img.bbystatic.com/BestBuy_US/images/products/1046/1046346_sa.jpg"
+      {
+        "imageUrl": "http://img.bbystatic.com/BestBuy_US/images/products/1046/1046346_sa.jpg",
+        "order": 1
+      }
     ]
   },
   {
@@ -2794,9 +3391,12 @@
     "originalValue": 19.99,
     "currentValue": 5.49,
     "unitType": "unidade",
-    "unitQuantity": 17,
+    "unitQuantity": 1,
     "images": [
-      "http://img.bbystatic.com/BestBuy_US/images/products/1046/1046355_sa.jpg"
+      {
+        "imageUrl": "http://img.bbystatic.com/BestBuy_US/images/products/1046/1046355_sa.jpg",
+        "order": 1
+      }
     ]
   },
   {
@@ -2808,9 +3408,12 @@
     "originalValue": 19.99,
     "currentValue": 5.49,
     "unitType": "unidade",
-    "unitQuantity": 16,
+    "unitQuantity": 13,
     "images": [
-      "http://img.bbystatic.com/BestBuy_US/images/products/1046/1046364_sa.jpg"
+      {
+        "imageUrl": "http://img.bbystatic.com/BestBuy_US/images/products/1046/1046364_sa.jpg",
+        "order": 1
+      }
     ]
   },
   {
@@ -2820,11 +3423,14 @@
     "category": "Cameras & Camcorders",
     "brand": "SanDisk",
     "originalValue": 39.99,
-    "currentValue": 13,
+    "currentValue": 2,
     "unitType": "unidade",
-    "unitQuantity": 19,
+    "unitQuantity": 4,
     "images": [
-      "http://img.bbystatic.com/BestBuy_US/images/products/1047/1047317_sa.jpg"
+      {
+        "imageUrl": "http://img.bbystatic.com/BestBuy_US/images/products/1047/1047317_sa.jpg",
+        "order": 1
+      }
     ]
   },
   {
@@ -2836,9 +3442,12 @@
     "originalValue": 9.99,
     "currentValue": 3.99,
     "unitType": "unidade",
-    "unitQuantity": 5,
+    "unitQuantity": 9,
     "images": [
-      "http://img.bbystatic.com/BestBuy_US/images/products/1048/1048029_sa.jpg"
+      {
+        "imageUrl": "http://img.bbystatic.com/BestBuy_US/images/products/1048/1048029_sa.jpg",
+        "order": 1
+      }
     ]
   },
   {
@@ -2850,9 +3459,12 @@
     "originalValue": 19.99,
     "currentValue": 5.49,
     "unitType": "unidade",
-    "unitQuantity": 7,
+    "unitQuantity": 10,
     "images": [
-      "http://img.bbystatic.com/BestBuy_US/images/products/1048/1048555_rc.jpg"
+      {
+        "imageUrl": "http://img.bbystatic.com/BestBuy_US/images/products/1048/1048555_rc.jpg",
+        "order": 1
+      }
     ]
   },
   {
@@ -2862,11 +3474,14 @@
     "category": "Computers & Tablets",
     "brand": "StarTech",
     "originalValue": 30.99,
-    "currentValue": 10,
+    "currentValue": 12,
     "unitType": "unidade",
-    "unitQuantity": 19,
+    "unitQuantity": 11,
     "images": [
-      "http://img.bbystatic.com/BestBuy_US/images/products/1049/1049014_rc.jpg"
+      {
+        "imageUrl": "http://img.bbystatic.com/BestBuy_US/images/products/1049/1049014_rc.jpg",
+        "order": 1
+      }
     ]
   },
   {
@@ -2878,9 +3493,12 @@
     "originalValue": 29.99,
     "currentValue": 6.99,
     "unitType": "unidade",
-    "unitQuantity": 3,
+    "unitQuantity": 6,
     "images": [
-      "http://img.bbystatic.com/BestBuy_US/images/products/1049/1049688_rc.jpg"
+      {
+        "imageUrl": "http://img.bbystatic.com/BestBuy_US/images/products/1049/1049688_rc.jpg",
+        "order": 1
+      }
     ]
   },
   {
@@ -2890,11 +3508,14 @@
     "category": "Connected Home & Housewares",
     "brand": "Xerox",
     "originalValue": 399.99,
-    "currentValue": 10,
+    "currentValue": 12,
     "unitType": "unidade",
-    "unitQuantity": 19,
+    "unitQuantity": 3,
     "images": [
-      "http://img.bbystatic.com/BestBuy_US/images/products/1050/1050569_sa.jpg"
+      {
+        "imageUrl": "http://img.bbystatic.com/BestBuy_US/images/products/1050/1050569_sa.jpg",
+        "order": 1
+      }
     ]
   },
   {
@@ -2904,11 +3525,14 @@
     "category": "Connected Home & Housewares",
     "brand": "HP",
     "originalValue": 74.99,
-    "currentValue": 19,
+    "currentValue": 10,
     "unitType": "unidade",
-    "unitQuantity": 0,
+    "unitQuantity": 7,
     "images": [
-      "http://img.bbystatic.com/BestBuy_US/images/products/1051/1051974_sa.jpg"
+      {
+        "imageUrl": "http://img.bbystatic.com/BestBuy_US/images/products/1051/1051974_sa.jpg",
+        "order": 1
+      }
     ]
   },
   {
@@ -2920,9 +3544,12 @@
     "originalValue": 159.99,
     "currentValue": 18,
     "unitType": "unidade",
-    "unitQuantity": 8,
+    "unitQuantity": 5,
     "images": [
-      "http://img.bbystatic.com/BestBuy_US/images/products/1052/1052096_sa.jpg"
+      {
+        "imageUrl": "http://img.bbystatic.com/BestBuy_US/images/products/1052/1052096_sa.jpg",
+        "order": 1
+      }
     ]
   },
   {
@@ -2932,11 +3559,14 @@
     "category": "TV & Home Theater",
     "brand": "Insignia™",
     "originalValue": 189.99,
-    "currentValue": 1,
+    "currentValue": 16,
     "unitType": "unidade",
-    "unitQuantity": 3,
+    "unitQuantity": 12,
     "images": [
-      "http://img.bbystatic.com/BestBuy_US/images/products/1053/1053086_sa.jpg"
+      {
+        "imageUrl": "http://img.bbystatic.com/BestBuy_US/images/products/1053/1053086_sa.jpg",
+        "order": 1
+      }
     ]
   },
   {
@@ -2948,9 +3578,12 @@
     "originalValue": 9.99,
     "currentValue": 3.99,
     "unitType": "unidade",
-    "unitQuantity": 10,
+    "unitQuantity": 13,
     "images": [
-      "http://img.bbystatic.com/BestBuy_US/images/products/1053/1053196_sa.jpg"
+      {
+        "imageUrl": "http://img.bbystatic.com/BestBuy_US/images/products/1053/1053196_sa.jpg",
+        "order": 1
+      }
     ]
   },
   {
@@ -2962,9 +3595,12 @@
     "originalValue": 4.99,
     "currentValue": 3.99,
     "unitType": "unidade",
-    "unitQuantity": 1,
+    "unitQuantity": 11,
     "images": [
-      "http://img.bbystatic.com/BestBuy_US/images/products/1053/1053239_sa.jpg"
+      {
+        "imageUrl": "http://img.bbystatic.com/BestBuy_US/images/products/1053/1053239_sa.jpg",
+        "order": 1
+      }
     ]
   },
   {
@@ -2978,7 +3614,10 @@
     "unitType": "unidade",
     "unitQuantity": 8,
     "images": [
-      "http://img.bbystatic.com/BestBuy_US/images/products/1053/1053381_sa.jpg"
+      {
+        "imageUrl": "http://img.bbystatic.com/BestBuy_US/images/products/1053/1053381_sa.jpg",
+        "order": 1
+      }
     ]
   },
   {
@@ -2990,9 +3629,12 @@
     "originalValue": 19.99,
     "currentValue": 3.99,
     "unitType": "unidade",
-    "unitQuantity": 0,
+    "unitQuantity": 6,
     "images": [
-      "http://img.bbystatic.com/BestBuy_US/images/products/1053/1053414_sc.jpg"
+      {
+        "imageUrl": "http://img.bbystatic.com/BestBuy_US/images/products/1053/1053414_sc.jpg",
+        "order": 1
+      }
     ]
   },
   {
@@ -3004,9 +3646,12 @@
     "originalValue": 9.99,
     "currentValue": 3.99,
     "unitType": "unidade",
-    "unitQuantity": 16,
+    "unitQuantity": 17,
     "images": [
-      "http://img.bbystatic.com/BestBuy_US/images/products/1053/1053432_sa.jpg"
+      {
+        "imageUrl": "http://img.bbystatic.com/BestBuy_US/images/products/1053/1053432_sa.jpg",
+        "order": 1
+      }
     ]
   },
   {
@@ -3018,9 +3663,12 @@
     "originalValue": 19.99,
     "currentValue": 5.49,
     "unitType": "unidade",
-    "unitQuantity": 1,
+    "unitQuantity": 9,
     "images": [
-      "http://img.bbystatic.com/BestBuy_US/images/products/1053/1053441_sa.jpg"
+      {
+        "imageUrl": "http://img.bbystatic.com/BestBuy_US/images/products/1053/1053441_sa.jpg",
+        "order": 1
+      }
     ]
   },
   {
@@ -3032,9 +3680,12 @@
     "originalValue": 19.99,
     "currentValue": 5.49,
     "unitType": "unidade",
-    "unitQuantity": 19,
+    "unitQuantity": 9,
     "images": [
-      "http://img.bbystatic.com/BestBuy_US/images/products/1053/1053469_sa.jpg"
+      {
+        "imageUrl": "http://img.bbystatic.com/BestBuy_US/images/products/1053/1053469_sa.jpg",
+        "order": 1
+      }
     ]
   },
   {
@@ -3044,11 +3695,14 @@
     "category": "Connected Home & Housewares",
     "brand": "HP",
     "originalValue": 78.99,
-    "currentValue": 16,
+    "currentValue": 2,
     "unitType": "unidade",
-    "unitQuantity": 4,
+    "unitQuantity": 19,
     "images": [
-      "http://img.bbystatic.com/BestBuy_US/images/products/1053/1053736_sa.jpg"
+      {
+        "imageUrl": "http://img.bbystatic.com/BestBuy_US/images/products/1053/1053736_sa.jpg",
+        "order": 1
+      }
     ]
   },
   {
@@ -3058,11 +3712,14 @@
     "category": "Connected Home & Housewares",
     "brand": "HP",
     "originalValue": 78.99,
-    "currentValue": 17,
+    "currentValue": 5,
     "unitType": "unidade",
-    "unitQuantity": 1,
+    "unitQuantity": 2,
     "images": [
-      "http://img.bbystatic.com/BestBuy_US/images/products/1053/1053854_sa.jpg"
+      {
+        "imageUrl": "http://img.bbystatic.com/BestBuy_US/images/products/1053/1053854_sa.jpg",
+        "order": 1
+      }
     ]
   }
 ]
